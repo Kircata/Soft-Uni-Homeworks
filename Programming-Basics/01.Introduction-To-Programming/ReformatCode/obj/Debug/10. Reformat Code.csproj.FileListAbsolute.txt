@@ -1,0 +1,6 @@
+F:\Data Kiril\SoftUni\Homework\01. Introduction to Programming\ReformatCode\bin\Debug\ReformatCode.exe.config
+F:\Data Kiril\SoftUni\Homework\01. Introduction to Programming\ReformatCode\bin\Debug\ReformatCode.exe
+F:\Data Kiril\SoftUni\Homework\01. Introduction to Programming\ReformatCode\bin\Debug\ReformatCode.pdb
+F:\Data Kiril\SoftUni\Homework\01. Introduction to Programming\ReformatCode\obj\Debug\10. Reformat Code.csprojResolveAssemblyReference.cache
+F:\Data Kiril\SoftUni\Homework\01. Introduction to Programming\ReformatCode\obj\Debug\ReformatCode.exe
+F:\Data Kiril\SoftUni\Homework\01. Introduction to Programming\ReformatCode\obj\Debug\ReformatCode.pdb

@@ -1,0 +1,1 @@
+C:\Users\Vesselin\Dropbox\C# One\01. Introduction to Programming\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.exe.config

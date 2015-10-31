@@ -1,0 +1,3 @@
+F:\Data Kiril\SoftUni\8.CSharpAdvancedTopics\CSharpAdvancedHomework\Problem14.BitFlipper\bin\Debug\Problem14.BitFlipper.exe.config
+F:\Data Kiril\SoftUni\8.CSharpAdvancedTopics\CSharpAdvancedHomework\Problem14.BitFlipper\obj\Debug\Problem14.BitFlipper.exe
+F:\Data Kiril\SoftUni\8.CSharpAdvancedTopics\CSharpAdvancedHomework\Problem14.BitFlipper\obj\Debug\Problem14.BitFlipper.pdb

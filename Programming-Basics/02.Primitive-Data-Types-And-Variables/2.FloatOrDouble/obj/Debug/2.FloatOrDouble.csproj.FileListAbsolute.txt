@@ -1,0 +1,5 @@
+F:\Data Kiril\SoftUni\Homework\PrimitiveDataTypesAndVariablesSolutions\2.FloatOrDouble\bin\Debug\2.FloatOrDouble.exe.config
+F:\Data Kiril\SoftUni\Homework\PrimitiveDataTypesAndVariablesSolutions\2.FloatOrDouble\bin\Debug\2.FloatOrDouble.exe
+F:\Data Kiril\SoftUni\Homework\PrimitiveDataTypesAndVariablesSolutions\2.FloatOrDouble\bin\Debug\2.FloatOrDouble.pdb
+F:\Data Kiril\SoftUni\Homework\PrimitiveDataTypesAndVariablesSolutions\2.FloatOrDouble\obj\Debug\2.FloatOrDouble.exe
+F:\Data Kiril\SoftUni\Homework\PrimitiveDataTypesAndVariablesSolutions\2.FloatOrDouble\obj\Debug\2.FloatOrDouble.pdb

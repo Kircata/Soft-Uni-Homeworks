@@ -1,0 +1,5 @@
+F:\Data Kiril\SoftUni\7.Loops\LoopsHomework\13. BinaryToDecimal\bin\Debug\_13.BinaryToDecimal.exe.config
+F:\Data Kiril\SoftUni\7.Loops\LoopsHomework\13. BinaryToDecimal\bin\Debug\_13.BinaryToDecimal.exe
+F:\Data Kiril\SoftUni\7.Loops\LoopsHomework\13. BinaryToDecimal\bin\Debug\_13.BinaryToDecimal.pdb
+F:\Data Kiril\SoftUni\7.Loops\LoopsHomework\13. BinaryToDecimal\obj\Debug\_13.BinaryToDecimal.exe
+F:\Data Kiril\SoftUni\7.Loops\LoopsHomework\13. BinaryToDecimal\obj\Debug\_13.BinaryToDecimal.pdb

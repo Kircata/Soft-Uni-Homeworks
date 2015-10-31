@@ -1,0 +1,6 @@
+F:\Data Kiril\SoftUni\7.Loops\LoopsHomework\15. HexToDecimal\bin\Debug\_15.HexToDecimal.exe.config
+F:\Data Kiril\SoftUni\7.Loops\LoopsHomework\15. HexToDecimal\bin\Debug\_15.HexToDecimal.exe
+F:\Data Kiril\SoftUni\7.Loops\LoopsHomework\15. HexToDecimal\bin\Debug\_15.HexToDecimal.pdb
+F:\Data Kiril\SoftUni\7.Loops\LoopsHomework\15. HexToDecimal\obj\Debug\15. HexToDecimal.csprojResolveAssemblyReference.cache
+F:\Data Kiril\SoftUni\7.Loops\LoopsHomework\15. HexToDecimal\obj\Debug\_15.HexToDecimal.exe
+F:\Data Kiril\SoftUni\7.Loops\LoopsHomework\15. HexToDecimal\obj\Debug\_15.HexToDecimal.pdb

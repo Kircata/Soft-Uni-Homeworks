@@ -1,0 +1,5 @@
+F:\Data Kiril\SoftUni\6.ConditionalStatements\ConditionalStatementsHomework\8. DigitAsWord\bin\Debug\_8.DigitAsWord.exe.config
+F:\Data Kiril\SoftUni\6.ConditionalStatements\ConditionalStatementsHomework\8. DigitAsWord\bin\Debug\_8.DigitAsWord.exe
+F:\Data Kiril\SoftUni\6.ConditionalStatements\ConditionalStatementsHomework\8. DigitAsWord\bin\Debug\_8.DigitAsWord.pdb
+F:\Data Kiril\SoftUni\6.ConditionalStatements\ConditionalStatementsHomework\8. DigitAsWord\obj\Debug\_8.DigitAsWord.exe
+F:\Data Kiril\SoftUni\6.ConditionalStatements\ConditionalStatementsHomework\8. DigitAsWord\obj\Debug\_8.DigitAsWord.pdb

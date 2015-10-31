@@ -1,0 +1,6 @@
+F:\Data Kiril\SoftUni\7.Loops\LoopsHomework\4. DeckOf52Cards\bin\Debug\_4.DeckOf52Cards.exe.config
+F:\Data Kiril\SoftUni\7.Loops\LoopsHomework\4. DeckOf52Cards\bin\Debug\_4.DeckOf52Cards.exe
+F:\Data Kiril\SoftUni\7.Loops\LoopsHomework\4. DeckOf52Cards\bin\Debug\_4.DeckOf52Cards.pdb
+F:\Data Kiril\SoftUni\7.Loops\LoopsHomework\4. DeckOf52Cards\obj\Debug\4. DeckOf52Cards.csprojResolveAssemblyReference.cache
+F:\Data Kiril\SoftUni\7.Loops\LoopsHomework\4. DeckOf52Cards\obj\Debug\_4.DeckOf52Cards.exe
+F:\Data Kiril\SoftUni\7.Loops\LoopsHomework\4. DeckOf52Cards\obj\Debug\_4.DeckOf52Cards.pdb

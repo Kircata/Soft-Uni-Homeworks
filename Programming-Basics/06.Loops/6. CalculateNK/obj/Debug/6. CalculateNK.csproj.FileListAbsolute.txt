@@ -1,0 +1,5 @@
+F:\Data Kiril\SoftUni\7.Loops\LoopsHomework\6. CalculateNK\bin\Debug\_6.CalculateNK.exe.config
+F:\Data Kiril\SoftUni\7.Loops\LoopsHomework\6. CalculateNK\bin\Debug\_6.CalculateNK.exe
+F:\Data Kiril\SoftUni\7.Loops\LoopsHomework\6. CalculateNK\bin\Debug\_6.CalculateNK.pdb
+F:\Data Kiril\SoftUni\7.Loops\LoopsHomework\6. CalculateNK\obj\Debug\_6.CalculateNK.exe
+F:\Data Kiril\SoftUni\7.Loops\LoopsHomework\6. CalculateNK\obj\Debug\_6.CalculateNK.pdb

@@ -1,0 +1,6 @@
+F:\Data Kiril\SoftUni\6.ConditionalStatements\ConditionalStatementsHomework\9. PlayWithIntDoubleString\bin\Debug\_9.PlayWithIntDoubleString.exe.config
+F:\Data Kiril\SoftUni\6.ConditionalStatements\ConditionalStatementsHomework\9. PlayWithIntDoubleString\bin\Debug\_9.PlayWithIntDoubleString.exe
+F:\Data Kiril\SoftUni\6.ConditionalStatements\ConditionalStatementsHomework\9. PlayWithIntDoubleString\bin\Debug\_9.PlayWithIntDoubleString.pdb
+F:\Data Kiril\SoftUni\6.ConditionalStatements\ConditionalStatementsHomework\9. PlayWithIntDoubleString\obj\Debug\9. PlayWithIntDoubleString.csprojResolveAssemblyReference.cache
+F:\Data Kiril\SoftUni\6.ConditionalStatements\ConditionalStatementsHomework\9. PlayWithIntDoubleString\obj\Debug\_9.PlayWithIntDoubleString.exe
+F:\Data Kiril\SoftUni\6.ConditionalStatements\ConditionalStatementsHomework\9. PlayWithIntDoubleString\obj\Debug\_9.PlayWithIntDoubleString.pdb

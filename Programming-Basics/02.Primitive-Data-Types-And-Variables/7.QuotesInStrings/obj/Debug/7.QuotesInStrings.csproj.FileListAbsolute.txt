@@ -1,0 +1,5 @@
+F:\Data Kiril\SoftUni\Homework\PrimitiveDataTypesAndVariablesSolutions\7.QuotesInStrings\bin\Debug\7.QuotesInStrings.exe.config
+F:\Data Kiril\SoftUni\Homework\PrimitiveDataTypesAndVariablesSolutions\7.QuotesInStrings\bin\Debug\7.QuotesInStrings.exe
+F:\Data Kiril\SoftUni\Homework\PrimitiveDataTypesAndVariablesSolutions\7.QuotesInStrings\bin\Debug\7.QuotesInStrings.pdb
+F:\Data Kiril\SoftUni\Homework\PrimitiveDataTypesAndVariablesSolutions\7.QuotesInStrings\obj\Debug\7.QuotesInStrings.exe
+F:\Data Kiril\SoftUni\Homework\PrimitiveDataTypesAndVariablesSolutions\7.QuotesInStrings\obj\Debug\7.QuotesInStrings.pdb

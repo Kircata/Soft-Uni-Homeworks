@@ -1,0 +1,6 @@
+F:\Data Kiril\SoftUni\Homework\PrimitiveDataTypesAndVariablesSolutions\11. BankAccountData\bin\Debug\_11.BankAccountData.exe.config
+F:\Data Kiril\SoftUni\Homework\PrimitiveDataTypesAndVariablesSolutions\11. BankAccountData\bin\Debug\_11.BankAccountData.exe
+F:\Data Kiril\SoftUni\Homework\PrimitiveDataTypesAndVariablesSolutions\11. BankAccountData\bin\Debug\_11.BankAccountData.pdb
+F:\Data Kiril\SoftUni\Homework\PrimitiveDataTypesAndVariablesSolutions\11. BankAccountData\obj\Debug\11. BankAccountData.csprojResolveAssemblyReference.cache
+F:\Data Kiril\SoftUni\Homework\PrimitiveDataTypesAndVariablesSolutions\11. BankAccountData\obj\Debug\_11.BankAccountData.exe
+F:\Data Kiril\SoftUni\Homework\PrimitiveDataTypesAndVariablesSolutions\11. BankAccountData\obj\Debug\_11.BankAccountData.pdb

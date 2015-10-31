@@ -1,0 +1,6 @@
+F:\Data Kiril\SoftUni\7.Loops\LoopsHomework\3. MinMaxSumAndAvg\bin\Debug\_3.MinMaxSumAndAvg.exe.config
+F:\Data Kiril\SoftUni\7.Loops\LoopsHomework\3. MinMaxSumAndAvg\bin\Debug\_3.MinMaxSumAndAvg.exe
+F:\Data Kiril\SoftUni\7.Loops\LoopsHomework\3. MinMaxSumAndAvg\bin\Debug\_3.MinMaxSumAndAvg.pdb
+F:\Data Kiril\SoftUni\7.Loops\LoopsHomework\3. MinMaxSumAndAvg\obj\Debug\3. MinMaxSumAndAvg.csprojResolveAssemblyReference.cache
+F:\Data Kiril\SoftUni\7.Loops\LoopsHomework\3. MinMaxSumAndAvg\obj\Debug\_3.MinMaxSumAndAvg.exe
+F:\Data Kiril\SoftUni\7.Loops\LoopsHomework\3. MinMaxSumAndAvg\obj\Debug\_3.MinMaxSumAndAvg.pdb

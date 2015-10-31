@@ -1,0 +1,5 @@
+F:\Data Kiril\SoftUni\6.ConditionalStatements\ConditionalStatementsHomework\6. BiggestOf5\bin\Debug\_6.BiggestOf5.exe.config
+F:\Data Kiril\SoftUni\6.ConditionalStatements\ConditionalStatementsHomework\6. BiggestOf5\bin\Debug\_6.BiggestOf5.exe
+F:\Data Kiril\SoftUni\6.ConditionalStatements\ConditionalStatementsHomework\6. BiggestOf5\bin\Debug\_6.BiggestOf5.pdb
+F:\Data Kiril\SoftUni\6.ConditionalStatements\ConditionalStatementsHomework\6. BiggestOf5\obj\Debug\_6.BiggestOf5.exe
+F:\Data Kiril\SoftUni\6.ConditionalStatements\ConditionalStatementsHomework\6. BiggestOf5\obj\Debug\_6.BiggestOf5.pdb

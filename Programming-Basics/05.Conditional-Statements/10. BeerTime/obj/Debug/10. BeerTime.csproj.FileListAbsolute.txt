@@ -1,0 +1,5 @@
+F:\Data Kiril\SoftUni\6.ConditionalStatements\ConditionalStatementsHomework\10. BeerTime\bin\Debug\_10.BeerTime.exe.config
+F:\Data Kiril\SoftUni\6.ConditionalStatements\ConditionalStatementsHomework\10. BeerTime\bin\Debug\_10.BeerTime.exe
+F:\Data Kiril\SoftUni\6.ConditionalStatements\ConditionalStatementsHomework\10. BeerTime\bin\Debug\_10.BeerTime.pdb
+F:\Data Kiril\SoftUni\6.ConditionalStatements\ConditionalStatementsHomework\10. BeerTime\obj\Debug\_10.BeerTime.exe
+F:\Data Kiril\SoftUni\6.ConditionalStatements\ConditionalStatementsHomework\10. BeerTime\obj\Debug\_10.BeerTime.pdb

@@ -1,0 +1,6 @@
+F:\Data Kiril\SoftUni\4.ConsoleInputOutput\ConsoleInputOutputHomework\Problem3.CirclePerimeterAndArea\bin\Debug\Problem3.CirclePerimeterAndArea.exe.config
+F:\Data Kiril\SoftUni\4.ConsoleInputOutput\ConsoleInputOutputHomework\Problem3.CirclePerimeterAndArea\bin\Debug\Problem3.CirclePerimeterAndArea.exe
+F:\Data Kiril\SoftUni\4.ConsoleInputOutput\ConsoleInputOutputHomework\Problem3.CirclePerimeterAndArea\bin\Debug\Problem3.CirclePerimeterAndArea.pdb
+F:\Data Kiril\SoftUni\4.ConsoleInputOutput\ConsoleInputOutputHomework\Problem3.CirclePerimeterAndArea\obj\Debug\Problem3.CirclePerimeterAndArea.csprojResolveAssemblyReference.cache
+F:\Data Kiril\SoftUni\4.ConsoleInputOutput\ConsoleInputOutputHomework\Problem3.CirclePerimeterAndArea\obj\Debug\Problem3.CirclePerimeterAndArea.exe
+F:\Data Kiril\SoftUni\4.ConsoleInputOutput\ConsoleInputOutputHomework\Problem3.CirclePerimeterAndArea\obj\Debug\Problem3.CirclePerimeterAndArea.pdb

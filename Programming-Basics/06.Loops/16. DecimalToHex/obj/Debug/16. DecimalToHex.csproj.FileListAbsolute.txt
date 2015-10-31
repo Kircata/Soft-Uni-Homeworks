@@ -1,0 +1,6 @@
+F:\Data Kiril\SoftUni\7.Loops\LoopsHomework\16. DecimalToHex\bin\Debug\_16.DecimalToHex.exe.config
+F:\Data Kiril\SoftUni\7.Loops\LoopsHomework\16. DecimalToHex\bin\Debug\_16.DecimalToHex.exe
+F:\Data Kiril\SoftUni\7.Loops\LoopsHomework\16. DecimalToHex\bin\Debug\_16.DecimalToHex.pdb
+F:\Data Kiril\SoftUni\7.Loops\LoopsHomework\16. DecimalToHex\obj\Debug\16. DecimalToHex.csprojResolveAssemblyReference.cache
+F:\Data Kiril\SoftUni\7.Loops\LoopsHomework\16. DecimalToHex\obj\Debug\_16.DecimalToHex.exe
+F:\Data Kiril\SoftUni\7.Loops\LoopsHomework\16. DecimalToHex\obj\Debug\_16.DecimalToHex.pdb

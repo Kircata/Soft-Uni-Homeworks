@@ -1,0 +1,6 @@
+F:\Data Kiril\SoftUni\8.CSharpAdvancedTopics\CSharpAdvancedHomework\Problem10.InsideTheBuilding\bin\Debug\Problem10.InsideTheBuilding.exe.config
+F:\Data Kiril\SoftUni\8.CSharpAdvancedTopics\CSharpAdvancedHomework\Problem10.InsideTheBuilding\bin\Debug\Problem10.InsideTheBuilding.exe
+F:\Data Kiril\SoftUni\8.CSharpAdvancedTopics\CSharpAdvancedHomework\Problem10.InsideTheBuilding\bin\Debug\Problem10.InsideTheBuilding.pdb
+F:\Data Kiril\SoftUni\8.CSharpAdvancedTopics\CSharpAdvancedHomework\Problem10.InsideTheBuilding\obj\Debug\Problem10.InsideTheBuilding.csprojResolveAssemblyReference.cache
+F:\Data Kiril\SoftUni\8.CSharpAdvancedTopics\CSharpAdvancedHomework\Problem10.InsideTheBuilding\obj\Debug\Problem10.InsideTheBuilding.exe
+F:\Data Kiril\SoftUni\8.CSharpAdvancedTopics\CSharpAdvancedHomework\Problem10.InsideTheBuilding\obj\Debug\Problem10.InsideTheBuilding.pdb

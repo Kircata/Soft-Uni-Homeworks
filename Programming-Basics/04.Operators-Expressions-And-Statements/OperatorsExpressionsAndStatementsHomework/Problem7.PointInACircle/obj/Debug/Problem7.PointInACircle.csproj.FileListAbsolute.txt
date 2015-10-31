@@ -1,0 +1,8 @@
+D:\Lectures\5.OperatorsExpressionsAndStatements\OperatorsExpressionsAndStatementsHomework\Problem7.PointInACircle\bin\Debug\Problem7.PointInACircle.exe.config
+D:\Lectures\5.OperatorsExpressionsAndStatements\OperatorsExpressionsAndStatementsHomework\Problem7.PointInACircle\bin\Debug\Problem7.PointInACircle.exe
+D:\Lectures\5.OperatorsExpressionsAndStatements\OperatorsExpressionsAndStatementsHomework\Problem7.PointInACircle\bin\Debug\Problem7.PointInACircle.pdb
+D:\Lectures\5.OperatorsExpressionsAndStatements\OperatorsExpressionsAndStatementsHomework\Problem7.PointInACircle\obj\Debug\Problem7.PointInACircle.exe
+D:\Lectures\5.OperatorsExpressionsAndStatements\OperatorsExpressionsAndStatementsHomework\Problem7.PointInACircle\obj\Debug\Problem7.PointInACircle.pdb
+F:\Data Kiril\SoftUni\Homework\05.OperatorsExpressionsAndStatementsHomework\OperatorsExpressionsAndStatementsHomework\Problem7.PointInACircle\bin\Debug\Problem7.PointInACircle.exe.config
+F:\Data Kiril\SoftUni\Homework\05.OperatorsExpressionsAndStatementsHomework\OperatorsExpressionsAndStatementsHomework\Problem7.PointInACircle\obj\Debug\Problem7.PointInACircle.exe
+F:\Data Kiril\SoftUni\Homework\05.OperatorsExpressionsAndStatementsHomework\OperatorsExpressionsAndStatementsHomework\Problem7.PointInACircle\obj\Debug\Problem7.PointInACircle.pdb

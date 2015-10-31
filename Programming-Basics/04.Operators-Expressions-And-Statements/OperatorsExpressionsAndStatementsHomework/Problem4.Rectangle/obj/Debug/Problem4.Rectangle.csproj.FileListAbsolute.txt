@@ -1,0 +1,5 @@
+D:\Lectures\5.OperatorsExpressionsAndStatements\OperatorsExpressionsAndStatementsHomework\Problem4.Rectangle\bin\Debug\Problem4.Rectangle.exe.config
+D:\Lectures\5.OperatorsExpressionsAndStatements\OperatorsExpressionsAndStatementsHomework\Problem4.Rectangle\bin\Debug\Problem4.Rectangle.exe
+D:\Lectures\5.OperatorsExpressionsAndStatements\OperatorsExpressionsAndStatementsHomework\Problem4.Rectangle\bin\Debug\Problem4.Rectangle.pdb
+D:\Lectures\5.OperatorsExpressionsAndStatements\OperatorsExpressionsAndStatementsHomework\Problem4.Rectangle\obj\Debug\Problem4.Rectangle.exe
+D:\Lectures\5.OperatorsExpressionsAndStatements\OperatorsExpressionsAndStatementsHomework\Problem4.Rectangle\obj\Debug\Problem4.Rectangle.pdb

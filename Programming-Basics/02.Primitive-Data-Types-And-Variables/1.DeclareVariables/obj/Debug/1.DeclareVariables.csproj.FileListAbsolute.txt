@@ -1,0 +1,5 @@
+F:\Data Kiril\SoftUni\Homework\PrimitiveDataTypesAndVariablesSolutions\1.DeclareVariables\bin\Debug\1.DeclareVariables.exe.config
+F:\Data Kiril\SoftUni\Homework\PrimitiveDataTypesAndVariablesSolutions\1.DeclareVariables\bin\Debug\1.DeclareVariables.exe
+F:\Data Kiril\SoftUni\Homework\PrimitiveDataTypesAndVariablesSolutions\1.DeclareVariables\bin\Debug\1.DeclareVariables.pdb
+F:\Data Kiril\SoftUni\Homework\PrimitiveDataTypesAndVariablesSolutions\1.DeclareVariables\obj\Debug\1.DeclareVariables.exe
+F:\Data Kiril\SoftUni\Homework\PrimitiveDataTypesAndVariablesSolutions\1.DeclareVariables\obj\Debug\1.DeclareVariables.pdb

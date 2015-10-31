@@ -1,0 +1,6 @@
+F:\Data Kiril\SoftUni\Homework\PrimitiveDataTypesAndVariablesSolutions\4.Unicode Character\bin\Debug\4.Unicode Character.exe.config
+F:\Data Kiril\SoftUni\Homework\PrimitiveDataTypesAndVariablesSolutions\4.Unicode Character\bin\Debug\4.Unicode Character.exe
+F:\Data Kiril\SoftUni\Homework\PrimitiveDataTypesAndVariablesSolutions\4.Unicode Character\bin\Debug\4.Unicode Character.pdb
+F:\Data Kiril\SoftUni\Homework\PrimitiveDataTypesAndVariablesSolutions\4.Unicode Character\obj\Debug\4.Unicode Character.csprojResolveAssemblyReference.cache
+F:\Data Kiril\SoftUni\Homework\PrimitiveDataTypesAndVariablesSolutions\4.Unicode Character\obj\Debug\4.Unicode Character.exe
+F:\Data Kiril\SoftUni\Homework\PrimitiveDataTypesAndVariablesSolutions\4.Unicode Character\obj\Debug\4.Unicode Character.pdb

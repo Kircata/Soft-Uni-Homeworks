@@ -1,0 +1,6 @@
+F:\Data Kiril\SoftUni\6.ConditionalStatements\ConditionalStatementsHomework\5. BiggestOf3\bin\Debug\_5.BiggestOf3.exe.config
+F:\Data Kiril\SoftUni\6.ConditionalStatements\ConditionalStatementsHomework\5. BiggestOf3\bin\Debug\_5.BiggestOf3.exe
+F:\Data Kiril\SoftUni\6.ConditionalStatements\ConditionalStatementsHomework\5. BiggestOf3\bin\Debug\_5.BiggestOf3.pdb
+F:\Data Kiril\SoftUni\6.ConditionalStatements\ConditionalStatementsHomework\5. BiggestOf3\obj\Debug\5. BiggestOf3.csprojResolveAssemblyReference.cache
+F:\Data Kiril\SoftUni\6.ConditionalStatements\ConditionalStatementsHomework\5. BiggestOf3\obj\Debug\_5.BiggestOf3.exe
+F:\Data Kiril\SoftUni\6.ConditionalStatements\ConditionalStatementsHomework\5. BiggestOf3\obj\Debug\_5.BiggestOf3.pdb

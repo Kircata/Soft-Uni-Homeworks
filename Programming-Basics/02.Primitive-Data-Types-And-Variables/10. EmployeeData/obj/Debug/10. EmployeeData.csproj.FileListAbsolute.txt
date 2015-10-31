@@ -1,0 +1,5 @@
+F:\Data Kiril\SoftUni\Homework\PrimitiveDataTypesAndVariablesSolutions\10. EmployeeData\bin\Debug\_10.EmployeeData.exe.config
+F:\Data Kiril\SoftUni\Homework\PrimitiveDataTypesAndVariablesSolutions\10. EmployeeData\bin\Debug\_10.EmployeeData.exe
+F:\Data Kiril\SoftUni\Homework\PrimitiveDataTypesAndVariablesSolutions\10. EmployeeData\bin\Debug\_10.EmployeeData.pdb
+F:\Data Kiril\SoftUni\Homework\PrimitiveDataTypesAndVariablesSolutions\10. EmployeeData\obj\Debug\_10.EmployeeData.exe
+F:\Data Kiril\SoftUni\Homework\PrimitiveDataTypesAndVariablesSolutions\10. EmployeeData\obj\Debug\_10.EmployeeData.pdb

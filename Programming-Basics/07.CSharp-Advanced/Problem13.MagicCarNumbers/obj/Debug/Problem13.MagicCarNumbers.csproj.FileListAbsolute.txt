@@ -1,0 +1,6 @@
+F:\Data Kiril\SoftUni\8.CSharpAdvancedTopics\CSharpAdvancedHomework\Problem13.MagicCarNumbers\bin\Debug\Problem13.MagicCarNumbers.exe.config
+F:\Data Kiril\SoftUni\8.CSharpAdvancedTopics\CSharpAdvancedHomework\Problem13.MagicCarNumbers\bin\Debug\Problem13.MagicCarNumbers.exe
+F:\Data Kiril\SoftUni\8.CSharpAdvancedTopics\CSharpAdvancedHomework\Problem13.MagicCarNumbers\bin\Debug\Problem13.MagicCarNumbers.pdb
+F:\Data Kiril\SoftUni\8.CSharpAdvancedTopics\CSharpAdvancedHomework\Problem13.MagicCarNumbers\obj\Debug\Problem13.MagicCarNumbers.exe
+F:\Data Kiril\SoftUni\8.CSharpAdvancedTopics\CSharpAdvancedHomework\Problem13.MagicCarNumbers\obj\Debug\Problem13.MagicCarNumbers.pdb
+F:\Data Kiril\SoftUni\8.CSharpAdvancedTopics\CSharpAdvancedHomework\Problem13.MagicCarNumbers\obj\Debug\Problem13.MagicCarNumbers.csprojResolveAssemblyReference.cache

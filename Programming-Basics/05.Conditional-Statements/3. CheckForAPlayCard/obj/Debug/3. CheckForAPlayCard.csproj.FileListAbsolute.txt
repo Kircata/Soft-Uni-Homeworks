@@ -1,0 +1,9 @@
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\ConditionalStatementsHomework\3. CheckForAPlayCard\bin\Debug\_3.CheckForAPlayCard.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\ConditionalStatementsHomework\3. CheckForAPlayCard\bin\Debug\_3.CheckForAPlayCard.exe
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\ConditionalStatementsHomework\3. CheckForAPlayCard\bin\Debug\_3.CheckForAPlayCard.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\ConditionalStatementsHomework\3. CheckForAPlayCard\obj\Debug\3. CheckForAPlayCard.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\ConditionalStatementsHomework\3. CheckForAPlayCard\obj\Debug\_3.CheckForAPlayCard.exe
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\ConditionalStatementsHomework\3. CheckForAPlayCard\obj\Debug\_3.CheckForAPlayCard.pdb
+F:\Data Kiril\SoftUni\6.ConditionalStatements\ConditionalStatementsHomework\3. CheckForAPlayCard\bin\Debug\_3.CheckForAPlayCard.exe.config
+F:\Data Kiril\SoftUni\6.ConditionalStatements\ConditionalStatementsHomework\3. CheckForAPlayCard\obj\Debug\_3.CheckForAPlayCard.exe
+F:\Data Kiril\SoftUni\6.ConditionalStatements\ConditionalStatementsHomework\3. CheckForAPlayCard\obj\Debug\_3.CheckForAPlayCard.pdb

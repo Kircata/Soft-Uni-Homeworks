@@ -1,0 +1,5 @@
+F:\Data Kiril\SoftUni\Homework\PrimitiveDataTypesAndVariablesSolutions\6.StringsAndObjects\bin\Debug\6.StringsAndObjects.exe.config
+F:\Data Kiril\SoftUni\Homework\PrimitiveDataTypesAndVariablesSolutions\6.StringsAndObjects\bin\Debug\6.StringsAndObjects.exe
+F:\Data Kiril\SoftUni\Homework\PrimitiveDataTypesAndVariablesSolutions\6.StringsAndObjects\bin\Debug\6.StringsAndObjects.pdb
+F:\Data Kiril\SoftUni\Homework\PrimitiveDataTypesAndVariablesSolutions\6.StringsAndObjects\obj\Debug\6.StringsAndObjects.exe
+F:\Data Kiril\SoftUni\Homework\PrimitiveDataTypesAndVariablesSolutions\6.StringsAndObjects\obj\Debug\6.StringsAndObjects.pdb

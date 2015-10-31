@@ -1,0 +1,6 @@
+F:\Data Kiril\SoftUni\7.Loops\LoopsHomework\10. OddOrEvenProduct\bin\Debug\_10.OddOrEvenProduct.exe.config
+F:\Data Kiril\SoftUni\7.Loops\LoopsHomework\10. OddOrEvenProduct\bin\Debug\_10.OddOrEvenProduct.exe
+F:\Data Kiril\SoftUni\7.Loops\LoopsHomework\10. OddOrEvenProduct\bin\Debug\_10.OddOrEvenProduct.pdb
+F:\Data Kiril\SoftUni\7.Loops\LoopsHomework\10. OddOrEvenProduct\obj\Debug\10. OddOrEvenProduct.csprojResolveAssemblyReference.cache
+F:\Data Kiril\SoftUni\7.Loops\LoopsHomework\10. OddOrEvenProduct\obj\Debug\_10.OddOrEvenProduct.exe
+F:\Data Kiril\SoftUni\7.Loops\LoopsHomework\10. OddOrEvenProduct\obj\Debug\_10.OddOrEvenProduct.pdb

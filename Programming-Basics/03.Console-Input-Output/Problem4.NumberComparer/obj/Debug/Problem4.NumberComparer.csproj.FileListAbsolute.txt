@@ -1,0 +1,6 @@
+F:\Data Kiril\SoftUni\4.ConsoleInputOutput\ConsoleInputOutputHomework\Problem4.NumberComparer\bin\Debug\Problem4.NumberComparer.exe.config
+F:\Data Kiril\SoftUni\4.ConsoleInputOutput\ConsoleInputOutputHomework\Problem4.NumberComparer\bin\Debug\Problem4.NumberComparer.exe
+F:\Data Kiril\SoftUni\4.ConsoleInputOutput\ConsoleInputOutputHomework\Problem4.NumberComparer\bin\Debug\Problem4.NumberComparer.pdb
+F:\Data Kiril\SoftUni\4.ConsoleInputOutput\ConsoleInputOutputHomework\Problem4.NumberComparer\obj\Debug\Problem4.NumberComparer.csprojResolveAssemblyReference.cache
+F:\Data Kiril\SoftUni\4.ConsoleInputOutput\ConsoleInputOutputHomework\Problem4.NumberComparer\obj\Debug\Problem4.NumberComparer.exe
+F:\Data Kiril\SoftUni\4.ConsoleInputOutput\ConsoleInputOutputHomework\Problem4.NumberComparer\obj\Debug\Problem4.NumberComparer.pdb

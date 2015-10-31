@@ -1,0 +1,5 @@
+F:\Data Kiril\SoftUni\4.ConsoleInputOutput\ConsoleInputOutputHomework\Problem5.FormattingNumbers\bin\Debug\Problem5.FormattingNumbers.exe.config
+F:\Data Kiril\SoftUni\4.ConsoleInputOutput\ConsoleInputOutputHomework\Problem5.FormattingNumbers\bin\Debug\Problem5.FormattingNumbers.exe
+F:\Data Kiril\SoftUni\4.ConsoleInputOutput\ConsoleInputOutputHomework\Problem5.FormattingNumbers\bin\Debug\Problem5.FormattingNumbers.pdb
+F:\Data Kiril\SoftUni\4.ConsoleInputOutput\ConsoleInputOutputHomework\Problem5.FormattingNumbers\obj\Debug\Problem5.FormattingNumbers.exe
+F:\Data Kiril\SoftUni\4.ConsoleInputOutput\ConsoleInputOutputHomework\Problem5.FormattingNumbers\obj\Debug\Problem5.FormattingNumbers.pdb

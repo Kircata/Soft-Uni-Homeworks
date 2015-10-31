@@ -1,0 +1,6 @@
+F:\Data Kiril\SoftUni\4.ConsoleInputOutput\ConsoleInputOutputHomework\Problem2.PrintCompanyName\bin\Debug\Problem2.PrintCompanyName.exe.config
+F:\Data Kiril\SoftUni\4.ConsoleInputOutput\ConsoleInputOutputHomework\Problem2.PrintCompanyName\bin\Debug\Problem2.PrintCompanyName.exe
+F:\Data Kiril\SoftUni\4.ConsoleInputOutput\ConsoleInputOutputHomework\Problem2.PrintCompanyName\bin\Debug\Problem2.PrintCompanyName.pdb
+F:\Data Kiril\SoftUni\4.ConsoleInputOutput\ConsoleInputOutputHomework\Problem2.PrintCompanyName\obj\Debug\Problem2.PrintCompanyName.exe
+F:\Data Kiril\SoftUni\4.ConsoleInputOutput\ConsoleInputOutputHomework\Problem2.PrintCompanyName\obj\Debug\Problem2.PrintCompanyName.pdb
+F:\Data Kiril\SoftUni\4.ConsoleInputOutput\ConsoleInputOutputHomework\Problem2.PrintCompanyName\obj\Debug\Problem2.PrintCompanyName.csprojResolveAssemblyReference.cache

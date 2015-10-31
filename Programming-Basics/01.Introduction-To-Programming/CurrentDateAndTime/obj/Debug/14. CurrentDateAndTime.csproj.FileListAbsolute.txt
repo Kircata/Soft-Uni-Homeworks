@@ -1,0 +1,9 @@
+C:\Users\Vesselin\Dropbox\C# One\01. Introduction to Programming\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.exe.config
+C:\Users\Vesselin\Dropbox\C# One\01. Introduction to Programming\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.exe
+C:\Users\Vesselin\Dropbox\C# One\01. Introduction to Programming\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.pdb
+C:\Users\Vesselin\Dropbox\C# One\01. Introduction to Programming\CurrentDateAndTime\obj\Debug\14. CurrentDateAndTime.csprojResolveAssemblyReference.cache
+C:\Users\Vesselin\Dropbox\C# One\01. Introduction to Programming\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.exe
+C:\Users\Vesselin\Dropbox\C# One\01. Introduction to Programming\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.pdb
+F:\Data Kiril\SoftUni\Homework\01. Introduction to Programming\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.exe.config
+F:\Data Kiril\SoftUni\Homework\01. Introduction to Programming\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.exe
+F:\Data Kiril\SoftUni\Homework\01. Introduction to Programming\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.pdb

@@ -1,0 +1,8 @@
+D:\Lectures\5.OperatorsExpressionsAndStatements\OperatorsExpressionsAndStatementsHomework\Problem9.Trapezoid\bin\Debug\Problem9.Trapezoid.exe.config
+D:\Lectures\5.OperatorsExpressionsAndStatements\OperatorsExpressionsAndStatementsHomework\Problem9.Trapezoid\bin\Debug\Problem9.Trapezoid.exe
+D:\Lectures\5.OperatorsExpressionsAndStatements\OperatorsExpressionsAndStatementsHomework\Problem9.Trapezoid\bin\Debug\Problem9.Trapezoid.pdb
+D:\Lectures\5.OperatorsExpressionsAndStatements\OperatorsExpressionsAndStatementsHomework\Problem9.Trapezoid\obj\Debug\Problem9.Trapezoid.exe
+D:\Lectures\5.OperatorsExpressionsAndStatements\OperatorsExpressionsAndStatementsHomework\Problem9.Trapezoid\obj\Debug\Problem9.Trapezoid.pdb
+F:\Data Kiril\SoftUni\Homework\05.OperatorsExpressionsAndStatementsHomework\OperatorsExpressionsAndStatementsHomework\Problem9.Trapezoid\bin\Debug\Problem9.Trapezoid.exe.config
+F:\Data Kiril\SoftUni\Homework\05.OperatorsExpressionsAndStatementsHomework\OperatorsExpressionsAndStatementsHomework\Problem9.Trapezoid\obj\Debug\Problem9.Trapezoid.exe
+F:\Data Kiril\SoftUni\Homework\05.OperatorsExpressionsAndStatementsHomework\OperatorsExpressionsAndStatementsHomework\Problem9.Trapezoid\obj\Debug\Problem9.Trapezoid.pdb

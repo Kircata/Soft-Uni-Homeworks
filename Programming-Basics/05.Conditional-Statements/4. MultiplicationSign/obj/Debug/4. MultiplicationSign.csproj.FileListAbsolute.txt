@@ -1,0 +1,8 @@
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\ConditionalStatementsHomework\4. MultiplicationSign\bin\Debug\_4.MultiplicationSign.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\ConditionalStatementsHomework\4. MultiplicationSign\bin\Debug\_4.MultiplicationSign.exe
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\ConditionalStatementsHomework\4. MultiplicationSign\bin\Debug\_4.MultiplicationSign.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\ConditionalStatementsHomework\4. MultiplicationSign\obj\Debug\_4.MultiplicationSign.exe
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\ConditionalStatementsHomework\4. MultiplicationSign\obj\Debug\_4.MultiplicationSign.pdb
+F:\Data Kiril\SoftUni\6.ConditionalStatements\ConditionalStatementsHomework\4. MultiplicationSign\bin\Debug\_4.MultiplicationSign.exe.config
+F:\Data Kiril\SoftUni\6.ConditionalStatements\ConditionalStatementsHomework\4. MultiplicationSign\obj\Debug\_4.MultiplicationSign.exe
+F:\Data Kiril\SoftUni\6.ConditionalStatements\ConditionalStatementsHomework\4. MultiplicationSign\obj\Debug\_4.MultiplicationSign.pdb

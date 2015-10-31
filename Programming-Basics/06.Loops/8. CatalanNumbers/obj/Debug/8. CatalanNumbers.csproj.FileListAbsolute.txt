@@ -1,0 +1,6 @@
+F:\Data Kiril\SoftUni\7.Loops\LoopsHomework\8. CatalanNumbers\bin\Debug\_8.CatalanNumbers.exe.config
+F:\Data Kiril\SoftUni\7.Loops\LoopsHomework\8. CatalanNumbers\bin\Debug\_8.CatalanNumbers.exe
+F:\Data Kiril\SoftUni\7.Loops\LoopsHomework\8. CatalanNumbers\bin\Debug\_8.CatalanNumbers.pdb
+F:\Data Kiril\SoftUni\7.Loops\LoopsHomework\8. CatalanNumbers\obj\Debug\8. CatalanNumbers.csprojResolveAssemblyReference.cache
+F:\Data Kiril\SoftUni\7.Loops\LoopsHomework\8. CatalanNumbers\obj\Debug\_8.CatalanNumbers.exe
+F:\Data Kiril\SoftUni\7.Loops\LoopsHomework\8. CatalanNumbers\obj\Debug\_8.CatalanNumbers.pdb

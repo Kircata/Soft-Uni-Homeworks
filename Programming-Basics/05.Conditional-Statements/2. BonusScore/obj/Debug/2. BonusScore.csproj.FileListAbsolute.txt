@@ -1,0 +1,9 @@
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\ConditionalStatementsHomework\2. BonusScore\bin\Debug\_2.BonusScore.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\ConditionalStatementsHomework\2. BonusScore\bin\Debug\_2.BonusScore.exe
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\ConditionalStatementsHomework\2. BonusScore\bin\Debug\_2.BonusScore.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\ConditionalStatementsHomework\2. BonusScore\obj\Debug\_2.BonusScore.exe
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\ConditionalStatementsHomework\2. BonusScore\obj\Debug\_2.BonusScore.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\ConditionalStatementsHomework\2. BonusScore\obj\Debug\2. BonusScore.csprojResolveAssemblyReference.cache
+F:\Data Kiril\SoftUni\6.ConditionalStatements\ConditionalStatementsHomework\2. BonusScore\bin\Debug\_2.BonusScore.exe.config
+F:\Data Kiril\SoftUni\6.ConditionalStatements\ConditionalStatementsHomework\2. BonusScore\obj\Debug\_2.BonusScore.exe
+F:\Data Kiril\SoftUni\6.ConditionalStatements\ConditionalStatementsHomework\2. BonusScore\obj\Debug\_2.BonusScore.pdb

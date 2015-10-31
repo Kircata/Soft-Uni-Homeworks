@@ -1,0 +1,6 @@
+F:\Data Kiril\SoftUni\7.Loops\LoopsHomework\2. NumbersNotDivisibleBy3And7\bin\Debug\_2.NumbersNotDivisibleBy3And7.exe.config
+F:\Data Kiril\SoftUni\7.Loops\LoopsHomework\2. NumbersNotDivisibleBy3And7\bin\Debug\_2.NumbersNotDivisibleBy3And7.exe
+F:\Data Kiril\SoftUni\7.Loops\LoopsHomework\2. NumbersNotDivisibleBy3And7\bin\Debug\_2.NumbersNotDivisibleBy3And7.pdb
+F:\Data Kiril\SoftUni\7.Loops\LoopsHomework\2. NumbersNotDivisibleBy3And7\obj\Debug\_2.NumbersNotDivisibleBy3And7.exe
+F:\Data Kiril\SoftUni\7.Loops\LoopsHomework\2. NumbersNotDivisibleBy3And7\obj\Debug\_2.NumbersNotDivisibleBy3And7.pdb
+F:\Data Kiril\SoftUni\7.Loops\LoopsHomework\2. NumbersNotDivisibleBy3And7\obj\Debug\2. NumbersNotDivisibleBy3And7.csprojResolveAssemblyReference.cache

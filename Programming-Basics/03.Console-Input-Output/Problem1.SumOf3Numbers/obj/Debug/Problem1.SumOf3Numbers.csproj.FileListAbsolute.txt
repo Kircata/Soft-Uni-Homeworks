@@ -1,0 +1,5 @@
+F:\Data Kiril\SoftUni\4.ConsoleInputOutput\ConsoleInputOutputHomework\Problem1.SumOf3Numbers\bin\Debug\Problem1.SumOf3Numbers.exe.config
+F:\Data Kiril\SoftUni\4.ConsoleInputOutput\ConsoleInputOutputHomework\Problem1.SumOf3Numbers\bin\Debug\Problem1.SumOf3Numbers.exe
+F:\Data Kiril\SoftUni\4.ConsoleInputOutput\ConsoleInputOutputHomework\Problem1.SumOf3Numbers\bin\Debug\Problem1.SumOf3Numbers.pdb
+F:\Data Kiril\SoftUni\4.ConsoleInputOutput\ConsoleInputOutputHomework\Problem1.SumOf3Numbers\obj\Debug\Problem1.SumOf3Numbers.exe
+F:\Data Kiril\SoftUni\4.ConsoleInputOutput\ConsoleInputOutputHomework\Problem1.SumOf3Numbers\obj\Debug\Problem1.SumOf3Numbers.pdb
