@@ -1,0 +1,6 @@
+F:\Data Kiril\SoftUni\Courses\Advanced C#\4. Advanced-CSharp-Strings-And-Text-Processing\TextProcessingHomework\TextFilter\bin\Debug\TextFilter.exe.config
+F:\Data Kiril\SoftUni\Courses\Advanced C#\4. Advanced-CSharp-Strings-And-Text-Processing\TextProcessingHomework\TextFilter\bin\Debug\TextFilter.exe
+F:\Data Kiril\SoftUni\Courses\Advanced C#\4. Advanced-CSharp-Strings-And-Text-Processing\TextProcessingHomework\TextFilter\bin\Debug\TextFilter.pdb
+F:\Data Kiril\SoftUni\Courses\Advanced C#\4. Advanced-CSharp-Strings-And-Text-Processing\TextProcessingHomework\TextFilter\obj\Debug\TextFilter.csprojResolveAssemblyReference.cache
+F:\Data Kiril\SoftUni\Courses\Advanced C#\4. Advanced-CSharp-Strings-And-Text-Processing\TextProcessingHomework\TextFilter\obj\Debug\TextFilter.exe
+F:\Data Kiril\SoftUni\Courses\Advanced C#\4. Advanced-CSharp-Strings-And-Text-Processing\TextProcessingHomework\TextFilter\obj\Debug\TextFilter.pdb

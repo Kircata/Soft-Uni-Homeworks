@@ -1,0 +1,5 @@
+F:\Data Kiril\SoftUni\Courses\Advanced C#\3. Advanced-CSharp-Methods\AdvancedCSharpHomeworkThree\ReverseNumber\bin\Debug\ReverseNumber.exe.config
+F:\Data Kiril\SoftUni\Courses\Advanced C#\3. Advanced-CSharp-Methods\AdvancedCSharpHomeworkThree\ReverseNumber\bin\Debug\ReverseNumber.exe
+F:\Data Kiril\SoftUni\Courses\Advanced C#\3. Advanced-CSharp-Methods\AdvancedCSharpHomeworkThree\ReverseNumber\bin\Debug\ReverseNumber.pdb
+F:\Data Kiril\SoftUni\Courses\Advanced C#\3. Advanced-CSharp-Methods\AdvancedCSharpHomeworkThree\ReverseNumber\obj\Debug\ReverseNumber.exe
+F:\Data Kiril\SoftUni\Courses\Advanced C#\3. Advanced-CSharp-Methods\AdvancedCSharpHomeworkThree\ReverseNumber\obj\Debug\ReverseNumber.pdb

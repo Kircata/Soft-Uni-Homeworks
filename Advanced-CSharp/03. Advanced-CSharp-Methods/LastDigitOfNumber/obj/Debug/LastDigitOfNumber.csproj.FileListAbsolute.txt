@@ -1,0 +1,6 @@
+F:\Data Kiril\SoftUni\Courses\Advanced C#\3. Advanced-CSharp-Methods\AdvancedCSharpHomeworkThree\LastDigitOfNumber\bin\Debug\LastDigitOfNumber.exe.config
+F:\Data Kiril\SoftUni\Courses\Advanced C#\3. Advanced-CSharp-Methods\AdvancedCSharpHomeworkThree\LastDigitOfNumber\bin\Debug\LastDigitOfNumber.exe
+F:\Data Kiril\SoftUni\Courses\Advanced C#\3. Advanced-CSharp-Methods\AdvancedCSharpHomeworkThree\LastDigitOfNumber\bin\Debug\LastDigitOfNumber.pdb
+F:\Data Kiril\SoftUni\Courses\Advanced C#\3. Advanced-CSharp-Methods\AdvancedCSharpHomeworkThree\LastDigitOfNumber\obj\Debug\LastDigitOfNumber.csprojResolveAssemblyReference.cache
+F:\Data Kiril\SoftUni\Courses\Advanced C#\3. Advanced-CSharp-Methods\AdvancedCSharpHomeworkThree\LastDigitOfNumber\obj\Debug\LastDigitOfNumber.exe
+F:\Data Kiril\SoftUni\Courses\Advanced C#\3. Advanced-CSharp-Methods\AdvancedCSharpHomeworkThree\LastDigitOfNumber\obj\Debug\LastDigitOfNumber.pdb

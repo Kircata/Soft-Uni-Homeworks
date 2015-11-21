@@ -1,0 +1,18 @@
+C:\Users\Lenovo\Documents\SharpDevelop Projects\StringLength\bin\Debug\StringLength.exe.config
+C:\Users\Lenovo\Documents\SharpDevelop Projects\StringLength\bin\Debug\StringLength.exe
+C:\Users\Lenovo\Documents\SharpDevelop Projects\StringLength\bin\Debug\StringLength.pdb
+C:\Users\Lenovo\Documents\SharpDevelop Projects\StringLength\obj\Debug\StringLength.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\SharpDevelop Projects\StringLength\obj\Debug\StringLength.exe
+C:\Users\Lenovo\Documents\SharpDevelop Projects\StringLength\obj\Debug\StringLength.pdb
+F:\Data Kiril\SoftUni\Courses\Advanced C#\4. Advanced-CSharp-Strings-And-Text-Processing\StringLength\bin\Debug\StringLength.exe.config
+F:\Data Kiril\SoftUni\Courses\Advanced C#\4. Advanced-CSharp-Strings-And-Text-Processing\StringLength\obj\Debug\StringLength.exe
+F:\Data Kiril\SoftUni\Courses\Advanced C#\4. Advanced-CSharp-Strings-And-Text-Processing\StringLength\obj\Debug\StringLength.pdb
+F:\Data Kiril\SoftUni\Courses\Advanced C#\4. Advanced-CSharp-Strings-And-Text-Processing\StringLength\bin\Debug\StringLength.exe
+F:\Data Kiril\SoftUni\Courses\Advanced C#\4. Advanced-CSharp-Strings-And-Text-Processing\StringLength\bin\Debug\StringLength.pdb
+F:\Data Kiril\SoftUni\Courses\Advanced C#\4. Advanced-CSharp-Strings-And-Text-Processing\StringLength\obj\Debug\StringLength.csprojResolveAssemblyReference.cache
+F:\Data Kiril\SoftUni\Courses\Advanced C#\4. Advanced-CSharp-Strings-And-Text-Processing\TextProcessingHomework\StringLength\bin\Debug\StringLength.exe.config
+F:\Data Kiril\SoftUni\Courses\Advanced C#\4. Advanced-CSharp-Strings-And-Text-Processing\TextProcessingHomework\StringLength\obj\Debug\StringLength.exe
+F:\Data Kiril\SoftUni\Courses\Advanced C#\4. Advanced-CSharp-Strings-And-Text-Processing\TextProcessingHomework\StringLength\obj\Debug\StringLength.pdb
+F:\Data Kiril\SoftUni\Courses\Advanced C#\4. Advanced-CSharp-Strings-And-Text-Processing\TextProcessingHomework\StringLength\bin\Debug\StringLength.exe
+F:\Data Kiril\SoftUni\Courses\Advanced C#\4. Advanced-CSharp-Strings-And-Text-Processing\TextProcessingHomework\StringLength\bin\Debug\StringLength.pdb
+F:\Data Kiril\SoftUni\Courses\Advanced C#\4. Advanced-CSharp-Strings-And-Text-Processing\TextProcessingHomework\StringLength\obj\Debug\StringLength.csprojResolveAssemblyReference.cache

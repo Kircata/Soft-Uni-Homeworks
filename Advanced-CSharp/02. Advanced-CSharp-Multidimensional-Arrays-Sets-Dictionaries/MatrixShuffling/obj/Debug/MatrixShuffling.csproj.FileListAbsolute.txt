@@ -1,0 +1,6 @@
+F:\Data Kiril\SoftUni\Advanced C#\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries\AdvancedCSharpHomeworkTwo\MatrixShuffling\bin\Debug\MatrixShuffling.exe.config
+F:\Data Kiril\SoftUni\Advanced C#\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries\AdvancedCSharpHomeworkTwo\MatrixShuffling\bin\Debug\MatrixShuffling.exe
+F:\Data Kiril\SoftUni\Advanced C#\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries\AdvancedCSharpHomeworkTwo\MatrixShuffling\bin\Debug\MatrixShuffling.pdb
+F:\Data Kiril\SoftUni\Advanced C#\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries\AdvancedCSharpHomeworkTwo\MatrixShuffling\obj\Debug\MatrixShuffling.csprojResolveAssemblyReference.cache
+F:\Data Kiril\SoftUni\Advanced C#\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries\AdvancedCSharpHomeworkTwo\MatrixShuffling\obj\Debug\MatrixShuffling.exe
+F:\Data Kiril\SoftUni\Advanced C#\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries\AdvancedCSharpHomeworkTwo\MatrixShuffling\obj\Debug\MatrixShuffling.pdb

@@ -1,0 +1,6 @@
+F:\Data Kiril\SoftUni\Courses\Advanced C#\5. Advanced-CSharp-Regular-Expressions\RegularExpressionsHomework\SentenceExtractor\bin\Debug\SentenceExtractor.exe.config
+F:\Data Kiril\SoftUni\Courses\Advanced C#\5. Advanced-CSharp-Regular-Expressions\RegularExpressionsHomework\SentenceExtractor\bin\Debug\SentenceExtractor.exe
+F:\Data Kiril\SoftUni\Courses\Advanced C#\5. Advanced-CSharp-Regular-Expressions\RegularExpressionsHomework\SentenceExtractor\bin\Debug\SentenceExtractor.pdb
+F:\Data Kiril\SoftUni\Courses\Advanced C#\5. Advanced-CSharp-Regular-Expressions\RegularExpressionsHomework\SentenceExtractor\obj\Debug\SentenceExtractor.csprojResolveAssemblyReference.cache
+F:\Data Kiril\SoftUni\Courses\Advanced C#\5. Advanced-CSharp-Regular-Expressions\RegularExpressionsHomework\SentenceExtractor\obj\Debug\SentenceExtractor.exe
+F:\Data Kiril\SoftUni\Courses\Advanced C#\5. Advanced-CSharp-Regular-Expressions\RegularExpressionsHomework\SentenceExtractor\obj\Debug\SentenceExtractor.pdb

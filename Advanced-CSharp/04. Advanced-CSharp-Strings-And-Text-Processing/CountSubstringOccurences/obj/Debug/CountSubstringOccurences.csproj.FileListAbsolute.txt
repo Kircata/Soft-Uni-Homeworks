@@ -1,0 +1,18 @@
+C:\Users\Lenovo\Documents\SharpDevelop Projects\CountSubstringOccurences\obj\Debug\CountSubstringOccurences.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\SharpDevelop Projects\CountSubstringOccurences\bin\Debug\CountSubstringOccurences.exe.config
+C:\Users\Lenovo\Documents\SharpDevelop Projects\CountSubstringOccurences\bin\Debug\CountSubstringOccurences.exe
+C:\Users\Lenovo\Documents\SharpDevelop Projects\CountSubstringOccurences\bin\Debug\CountSubstringOccurences.pdb
+C:\Users\Lenovo\Documents\SharpDevelop Projects\CountSubstringOccurences\obj\Debug\CountSubstringOccurences.exe
+C:\Users\Lenovo\Documents\SharpDevelop Projects\CountSubstringOccurences\obj\Debug\CountSubstringOccurences.pdb
+F:\Data Kiril\SoftUni\Courses\Advanced C#\4. Advanced-CSharp-Strings-And-Text-Processing\CountSubstringOccurences\bin\Debug\CountSubstringOccurences.exe.config
+F:\Data Kiril\SoftUni\Courses\Advanced C#\4. Advanced-CSharp-Strings-And-Text-Processing\CountSubstringOccurences\obj\Debug\CountSubstringOccurences.exe
+F:\Data Kiril\SoftUni\Courses\Advanced C#\4. Advanced-CSharp-Strings-And-Text-Processing\CountSubstringOccurences\obj\Debug\CountSubstringOccurences.pdb
+F:\Data Kiril\SoftUni\Courses\Advanced C#\4. Advanced-CSharp-Strings-And-Text-Processing\CountSubstringOccurences\bin\Debug\CountSubstringOccurences.exe
+F:\Data Kiril\SoftUni\Courses\Advanced C#\4. Advanced-CSharp-Strings-And-Text-Processing\CountSubstringOccurences\bin\Debug\CountSubstringOccurences.pdb
+F:\Data Kiril\SoftUni\Courses\Advanced C#\4. Advanced-CSharp-Strings-And-Text-Processing\CountSubstringOccurences\obj\Debug\CountSubstringOccurences.csprojResolveAssemblyReference.cache
+F:\Data Kiril\SoftUni\Courses\Advanced C#\4. Advanced-CSharp-Strings-And-Text-Processing\TextProcessingHomework\CountSubstringOccurences\bin\Debug\CountSubstringOccurences.exe.config
+F:\Data Kiril\SoftUni\Courses\Advanced C#\4. Advanced-CSharp-Strings-And-Text-Processing\TextProcessingHomework\CountSubstringOccurences\obj\Debug\CountSubstringOccurences.exe
+F:\Data Kiril\SoftUni\Courses\Advanced C#\4. Advanced-CSharp-Strings-And-Text-Processing\TextProcessingHomework\CountSubstringOccurences\obj\Debug\CountSubstringOccurences.pdb
+F:\Data Kiril\SoftUni\Courses\Advanced C#\4. Advanced-CSharp-Strings-And-Text-Processing\TextProcessingHomework\CountSubstringOccurences\bin\Debug\CountSubstringOccurences.exe
+F:\Data Kiril\SoftUni\Courses\Advanced C#\4. Advanced-CSharp-Strings-And-Text-Processing\TextProcessingHomework\CountSubstringOccurences\bin\Debug\CountSubstringOccurences.pdb
+F:\Data Kiril\SoftUni\Courses\Advanced C#\4. Advanced-CSharp-Strings-And-Text-Processing\TextProcessingHomework\CountSubstringOccurences\obj\Debug\CountSubstringOccurences.csprojResolveAssemblyReference.cache

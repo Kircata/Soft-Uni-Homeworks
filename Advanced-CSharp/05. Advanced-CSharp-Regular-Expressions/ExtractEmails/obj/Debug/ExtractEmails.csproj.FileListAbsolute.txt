@@ -1,0 +1,6 @@
+F:\Data Kiril\SoftUni\Courses\Advanced C#\5. Advanced-CSharp-Regular-Expressions\RegularExpressionsHomework\ExtractEmails\bin\Debug\ExtractEmails.exe.config
+F:\Data Kiril\SoftUni\Courses\Advanced C#\5. Advanced-CSharp-Regular-Expressions\RegularExpressionsHomework\ExtractEmails\bin\Debug\ExtractEmails.exe
+F:\Data Kiril\SoftUni\Courses\Advanced C#\5. Advanced-CSharp-Regular-Expressions\RegularExpressionsHomework\ExtractEmails\bin\Debug\ExtractEmails.pdb
+F:\Data Kiril\SoftUni\Courses\Advanced C#\5. Advanced-CSharp-Regular-Expressions\RegularExpressionsHomework\ExtractEmails\obj\Debug\ExtractEmails.csprojResolveAssemblyReference.cache
+F:\Data Kiril\SoftUni\Courses\Advanced C#\5. Advanced-CSharp-Regular-Expressions\RegularExpressionsHomework\ExtractEmails\obj\Debug\ExtractEmails.exe
+F:\Data Kiril\SoftUni\Courses\Advanced C#\5. Advanced-CSharp-Regular-Expressions\RegularExpressionsHomework\ExtractEmails\obj\Debug\ExtractEmails.pdb

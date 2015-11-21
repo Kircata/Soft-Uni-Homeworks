@@ -1,0 +1,6 @@
+F:\Data Kiril\SoftUni\Courses\Advanced C#\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries\AdvancedCSharpHomeworkTwo\NightLife\bin\Debug\NightLife.exe.config
+F:\Data Kiril\SoftUni\Courses\Advanced C#\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries\AdvancedCSharpHomeworkTwo\NightLife\bin\Debug\NightLife.exe
+F:\Data Kiril\SoftUni\Courses\Advanced C#\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries\AdvancedCSharpHomeworkTwo\NightLife\bin\Debug\NightLife.pdb
+F:\Data Kiril\SoftUni\Courses\Advanced C#\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries\AdvancedCSharpHomeworkTwo\NightLife\obj\Debug\NightLife.csprojResolveAssemblyReference.cache
+F:\Data Kiril\SoftUni\Courses\Advanced C#\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries\AdvancedCSharpHomeworkTwo\NightLife\obj\Debug\NightLife.exe
+F:\Data Kiril\SoftUni\Courses\Advanced C#\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries\AdvancedCSharpHomeworkTwo\NightLife\obj\Debug\NightLife.pdb

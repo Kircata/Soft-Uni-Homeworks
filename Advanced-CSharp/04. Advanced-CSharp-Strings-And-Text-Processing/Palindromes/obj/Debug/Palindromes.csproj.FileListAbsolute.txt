@@ -1,0 +1,6 @@
+F:\Data Kiril\SoftUni\Courses\Advanced C#\4. Advanced-CSharp-Strings-And-Text-Processing\TextProcessingHomework\Palindromes\bin\Debug\Palindromes.exe.config
+F:\Data Kiril\SoftUni\Courses\Advanced C#\4. Advanced-CSharp-Strings-And-Text-Processing\TextProcessingHomework\Palindromes\bin\Debug\Palindromes.exe
+F:\Data Kiril\SoftUni\Courses\Advanced C#\4. Advanced-CSharp-Strings-And-Text-Processing\TextProcessingHomework\Palindromes\bin\Debug\Palindromes.pdb
+F:\Data Kiril\SoftUni\Courses\Advanced C#\4. Advanced-CSharp-Strings-And-Text-Processing\TextProcessingHomework\Palindromes\obj\Debug\Palindromes.exe
+F:\Data Kiril\SoftUni\Courses\Advanced C#\4. Advanced-CSharp-Strings-And-Text-Processing\TextProcessingHomework\Palindromes\obj\Debug\Palindromes.pdb
+F:\Data Kiril\SoftUni\Courses\Advanced C#\4. Advanced-CSharp-Strings-And-Text-Processing\TextProcessingHomework\Palindromes\obj\Debug\Palindromes.csprojResolveAssemblyReference.cache

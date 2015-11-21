@@ -1,0 +1,6 @@
+F:\Data Kiril\SoftUni\Courses\Advanced C#\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries\AdvancedCSharpHomeworkTwo\Phonebook\bin\Debug\Phonebook.exe.config
+F:\Data Kiril\SoftUni\Courses\Advanced C#\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries\AdvancedCSharpHomeworkTwo\Phonebook\bin\Debug\Phonebook.exe
+F:\Data Kiril\SoftUni\Courses\Advanced C#\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries\AdvancedCSharpHomeworkTwo\Phonebook\bin\Debug\Phonebook.pdb
+F:\Data Kiril\SoftUni\Courses\Advanced C#\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries\AdvancedCSharpHomeworkTwo\Phonebook\obj\Debug\Phonebook.csprojResolveAssemblyReference.cache
+F:\Data Kiril\SoftUni\Courses\Advanced C#\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries\AdvancedCSharpHomeworkTwo\Phonebook\obj\Debug\Phonebook.exe
+F:\Data Kiril\SoftUni\Courses\Advanced C#\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries\AdvancedCSharpHomeworkTwo\Phonebook\obj\Debug\Phonebook.pdb

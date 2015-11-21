@@ -1,0 +1,18 @@
+C:\Users\Lenovo\Documents\SharpDevelop Projects\ReverseString\bin\Debug\ReverseString.exe.config
+C:\Users\Lenovo\Documents\SharpDevelop Projects\ReverseString\bin\Debug\ReverseString.exe
+C:\Users\Lenovo\Documents\SharpDevelop Projects\ReverseString\bin\Debug\ReverseString.pdb
+C:\Users\Lenovo\Documents\SharpDevelop Projects\ReverseString\obj\Debug\ReverseString.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\SharpDevelop Projects\ReverseString\obj\Debug\ReverseString.exe
+C:\Users\Lenovo\Documents\SharpDevelop Projects\ReverseString\obj\Debug\ReverseString.pdb
+F:\Data Kiril\SoftUni\Courses\Advanced C#\4. Advanced-CSharp-Strings-And-Text-Processing\ReverseString\bin\Debug\ReverseString.exe.config
+F:\Data Kiril\SoftUni\Courses\Advanced C#\4. Advanced-CSharp-Strings-And-Text-Processing\ReverseString\obj\Debug\ReverseString.exe
+F:\Data Kiril\SoftUni\Courses\Advanced C#\4. Advanced-CSharp-Strings-And-Text-Processing\ReverseString\obj\Debug\ReverseString.pdb
+F:\Data Kiril\SoftUni\Courses\Advanced C#\4. Advanced-CSharp-Strings-And-Text-Processing\ReverseString\bin\Debug\ReverseString.exe
+F:\Data Kiril\SoftUni\Courses\Advanced C#\4. Advanced-CSharp-Strings-And-Text-Processing\ReverseString\bin\Debug\ReverseString.pdb
+F:\Data Kiril\SoftUni\Courses\Advanced C#\4. Advanced-CSharp-Strings-And-Text-Processing\ReverseString\obj\Debug\ReverseString.csprojResolveAssemblyReference.cache
+F:\Data Kiril\SoftUni\Courses\Advanced C#\4. Advanced-CSharp-Strings-And-Text-Processing\TextProcessingHomework\ReverseString\bin\Debug\ReverseString.exe.config
+F:\Data Kiril\SoftUni\Courses\Advanced C#\4. Advanced-CSharp-Strings-And-Text-Processing\TextProcessingHomework\ReverseString\obj\Debug\ReverseString.exe
+F:\Data Kiril\SoftUni\Courses\Advanced C#\4. Advanced-CSharp-Strings-And-Text-Processing\TextProcessingHomework\ReverseString\obj\Debug\ReverseString.pdb
+F:\Data Kiril\SoftUni\Courses\Advanced C#\4. Advanced-CSharp-Strings-And-Text-Processing\TextProcessingHomework\ReverseString\bin\Debug\ReverseString.exe
+F:\Data Kiril\SoftUni\Courses\Advanced C#\4. Advanced-CSharp-Strings-And-Text-Processing\TextProcessingHomework\ReverseString\bin\Debug\ReverseString.pdb
+F:\Data Kiril\SoftUni\Courses\Advanced C#\4. Advanced-CSharp-Strings-And-Text-Processing\TextProcessingHomework\ReverseString\obj\Debug\ReverseString.csprojResolveAssemblyReference.cache

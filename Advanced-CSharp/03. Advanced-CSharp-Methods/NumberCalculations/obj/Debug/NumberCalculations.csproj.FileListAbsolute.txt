@@ -1,0 +1,5 @@
+F:\Data Kiril\SoftUni\Courses\Advanced C#\3. Advanced-CSharp-Methods\AdvancedCSharpHomeworkThree\NumberCalculations\bin\Debug\NumberCalculations.exe.config
+F:\Data Kiril\SoftUni\Courses\Advanced C#\3. Advanced-CSharp-Methods\AdvancedCSharpHomeworkThree\NumberCalculations\bin\Debug\NumberCalculations.exe
+F:\Data Kiril\SoftUni\Courses\Advanced C#\3. Advanced-CSharp-Methods\AdvancedCSharpHomeworkThree\NumberCalculations\bin\Debug\NumberCalculations.pdb
+F:\Data Kiril\SoftUni\Courses\Advanced C#\3. Advanced-CSharp-Methods\AdvancedCSharpHomeworkThree\NumberCalculations\obj\Debug\NumberCalculations.exe
+F:\Data Kiril\SoftUni\Courses\Advanced C#\3. Advanced-CSharp-Methods\AdvancedCSharpHomeworkThree\NumberCalculations\obj\Debug\NumberCalculations.pdb

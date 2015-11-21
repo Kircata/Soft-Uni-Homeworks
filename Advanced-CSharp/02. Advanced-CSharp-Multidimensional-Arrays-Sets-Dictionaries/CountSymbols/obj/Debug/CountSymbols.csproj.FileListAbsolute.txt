@@ -1,0 +1,5 @@
+F:\Data Kiril\SoftUni\Courses\Advanced C#\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries\AdvancedCSharpHomeworkTwo\CountSymbols\bin\Debug\CountSymbols.exe.config
+F:\Data Kiril\SoftUni\Courses\Advanced C#\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries\AdvancedCSharpHomeworkTwo\CountSymbols\bin\Debug\CountSymbols.exe
+F:\Data Kiril\SoftUni\Courses\Advanced C#\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries\AdvancedCSharpHomeworkTwo\CountSymbols\bin\Debug\CountSymbols.pdb
+F:\Data Kiril\SoftUni\Courses\Advanced C#\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries\AdvancedCSharpHomeworkTwo\CountSymbols\obj\Debug\CountSymbols.exe
+F:\Data Kiril\SoftUni\Courses\Advanced C#\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries\AdvancedCSharpHomeworkTwo\CountSymbols\obj\Debug\CountSymbols.pdb

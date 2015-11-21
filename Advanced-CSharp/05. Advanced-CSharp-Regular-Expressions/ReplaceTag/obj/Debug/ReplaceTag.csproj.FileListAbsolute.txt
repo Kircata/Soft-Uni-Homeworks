@@ -1,0 +1,6 @@
+F:\Data Kiril\SoftUni\Courses\Advanced C#\5. Advanced-CSharp-Regular-Expressions\RegularExpressionsHomework\ReplaceTag\bin\Debug\ReplaceTag.exe.config
+F:\Data Kiril\SoftUni\Courses\Advanced C#\5. Advanced-CSharp-Regular-Expressions\RegularExpressionsHomework\ReplaceTag\bin\Debug\ReplaceTag.exe
+F:\Data Kiril\SoftUni\Courses\Advanced C#\5. Advanced-CSharp-Regular-Expressions\RegularExpressionsHomework\ReplaceTag\bin\Debug\ReplaceTag.pdb
+F:\Data Kiril\SoftUni\Courses\Advanced C#\5. Advanced-CSharp-Regular-Expressions\RegularExpressionsHomework\ReplaceTag\obj\Debug\ReplaceTag.csprojResolveAssemblyReference.cache
+F:\Data Kiril\SoftUni\Courses\Advanced C#\5. Advanced-CSharp-Regular-Expressions\RegularExpressionsHomework\ReplaceTag\obj\Debug\ReplaceTag.exe
+F:\Data Kiril\SoftUni\Courses\Advanced C#\5. Advanced-CSharp-Regular-Expressions\RegularExpressionsHomework\ReplaceTag\obj\Debug\ReplaceTag.pdb

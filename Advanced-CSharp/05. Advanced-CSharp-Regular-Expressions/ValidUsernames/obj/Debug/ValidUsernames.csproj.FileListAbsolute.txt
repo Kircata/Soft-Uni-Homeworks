@@ -1,0 +1,6 @@
+F:\Data Kiril\SoftUni\Courses\Advanced C#\5. Advanced-CSharp-Regular-Expressions\RegularExpressionsHomework\ValidUsernames\bin\Debug\ValidUsernames.exe.config
+F:\Data Kiril\SoftUni\Courses\Advanced C#\5. Advanced-CSharp-Regular-Expressions\RegularExpressionsHomework\ValidUsernames\bin\Debug\ValidUsernames.exe
+F:\Data Kiril\SoftUni\Courses\Advanced C#\5. Advanced-CSharp-Regular-Expressions\RegularExpressionsHomework\ValidUsernames\bin\Debug\ValidUsernames.pdb
+F:\Data Kiril\SoftUni\Courses\Advanced C#\5. Advanced-CSharp-Regular-Expressions\RegularExpressionsHomework\ValidUsernames\obj\Debug\ValidUsernames.csprojResolveAssemblyReference.cache
+F:\Data Kiril\SoftUni\Courses\Advanced C#\5. Advanced-CSharp-Regular-Expressions\RegularExpressionsHomework\ValidUsernames\obj\Debug\ValidUsernames.exe
+F:\Data Kiril\SoftUni\Courses\Advanced C#\5. Advanced-CSharp-Regular-Expressions\RegularExpressionsHomework\ValidUsernames\obj\Debug\ValidUsernames.pdb

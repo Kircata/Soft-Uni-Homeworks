@@ -1,0 +1,7 @@
+F:\Data Kiril\SoftUni\Courses\Advanced C#\4. Advanced-CSharp-Strings-And-Text-Processing\RegularExpressionsHomework\SeriesOfLetters\bin\Debug\SeriesOfLetters.exe.config
+F:\Data Kiril\SoftUni\Courses\Advanced C#\5. Advanced-CSharp-Regular-Expressions\RegularExpressionsHomework\SeriesOfLetters\bin\Debug\SeriesOfLetters.exe.config
+F:\Data Kiril\SoftUni\Courses\Advanced C#\5. Advanced-CSharp-Regular-Expressions\RegularExpressionsHomework\SeriesOfLetters\bin\Debug\SeriesOfLetters.exe
+F:\Data Kiril\SoftUni\Courses\Advanced C#\5. Advanced-CSharp-Regular-Expressions\RegularExpressionsHomework\SeriesOfLetters\bin\Debug\SeriesOfLetters.pdb
+F:\Data Kiril\SoftUni\Courses\Advanced C#\5. Advanced-CSharp-Regular-Expressions\RegularExpressionsHomework\SeriesOfLetters\obj\Debug\SeriesOfLetters.csprojResolveAssemblyReference.cache
+F:\Data Kiril\SoftUni\Courses\Advanced C#\5. Advanced-CSharp-Regular-Expressions\RegularExpressionsHomework\SeriesOfLetters\obj\Debug\SeriesOfLetters.exe
+F:\Data Kiril\SoftUni\Courses\Advanced C#\5. Advanced-CSharp-Regular-Expressions\RegularExpressionsHomework\SeriesOfLetters\obj\Debug\SeriesOfLetters.pdb

@@ -1,0 +1,6 @@
+F:\Data Kiril\SoftUni\Courses\Advanced C#\3. Advanced-CSharp-Methods\AdvancedCSharpHomeworkThree\LargerThanNeightbours\bin\Debug\LargerThanNeightbours.exe.config
+F:\Data Kiril\SoftUni\Courses\Advanced C#\3. Advanced-CSharp-Methods\AdvancedCSharpHomeworkThree\LargerThanNeightbours\bin\Debug\LargerThanNeightbours.exe
+F:\Data Kiril\SoftUni\Courses\Advanced C#\3. Advanced-CSharp-Methods\AdvancedCSharpHomeworkThree\LargerThanNeightbours\bin\Debug\LargerThanNeightbours.pdb
+F:\Data Kiril\SoftUni\Courses\Advanced C#\3. Advanced-CSharp-Methods\AdvancedCSharpHomeworkThree\LargerThanNeightbours\obj\Debug\LargerThanNeightbours.exe
+F:\Data Kiril\SoftUni\Courses\Advanced C#\3. Advanced-CSharp-Methods\AdvancedCSharpHomeworkThree\LargerThanNeightbours\obj\Debug\LargerThanNeightbours.pdb
+F:\Data Kiril\SoftUni\Courses\Advanced C#\3. Advanced-CSharp-Methods\AdvancedCSharpHomeworkThree\LargerThanNeightbours\obj\Debug\LargerThanNeightbours.csprojResolveAssemblyReference.cache

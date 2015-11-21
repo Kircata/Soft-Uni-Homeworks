@@ -1,0 +1,5 @@
+F:\Data Kiril\SoftUni\Courses\Advanced C#\6. Advanced-CSharp-Streams-And-Files\StreamsAndFilesHomework\4.CopyBinaryFile\bin\Debug\4.CopyBinaryFile.exe.config
+F:\Data Kiril\SoftUni\Courses\Advanced C#\6. Advanced-CSharp-Streams-And-Files\StreamsAndFilesHomework\4.CopyBinaryFile\bin\Debug\4.CopyBinaryFile.exe
+F:\Data Kiril\SoftUni\Courses\Advanced C#\6. Advanced-CSharp-Streams-And-Files\StreamsAndFilesHomework\4.CopyBinaryFile\bin\Debug\4.CopyBinaryFile.pdb
+F:\Data Kiril\SoftUni\Courses\Advanced C#\6. Advanced-CSharp-Streams-And-Files\StreamsAndFilesHomework\4.CopyBinaryFile\obj\Debug\4.CopyBinaryFile.exe
+F:\Data Kiril\SoftUni\Courses\Advanced C#\6. Advanced-CSharp-Streams-And-Files\StreamsAndFilesHomework\4.CopyBinaryFile\obj\Debug\4.CopyBinaryFile.pdb
