@@ -1,0 +1,9 @@
+F:\Data Kiril\SoftUni\ExamProblems\Exam26April2015Evening\Programming-Basics-Exam-26-Apr-2015-Evening\MySolution\AdvancedCSharpHomeworkOne\SortArrayOfNumber\bin\Debug\SortArrayOfNumber.exe.config
+F:\Data Kiril\SoftUni\ExamProblems\Exam26April2015Evening\Programming-Basics-Exam-26-Apr-2015-Evening\MySolution\AdvancedCSharpHomeworkOne\SortArrayOfNumber\bin\Debug\SortArrayOfNumber.exe
+F:\Data Kiril\SoftUni\ExamProblems\Exam26April2015Evening\Programming-Basics-Exam-26-Apr-2015-Evening\MySolution\AdvancedCSharpHomeworkOne\SortArrayOfNumber\bin\Debug\SortArrayOfNumber.pdb
+F:\Data Kiril\SoftUni\ExamProblems\Exam26April2015Evening\Programming-Basics-Exam-26-Apr-2015-Evening\MySolution\AdvancedCSharpHomeworkOne\SortArrayOfNumber\obj\Debug\SortArrayOfNumbers.csprojResolveAssemblyReference.cache
+F:\Data Kiril\SoftUni\ExamProblems\Exam26April2015Evening\Programming-Basics-Exam-26-Apr-2015-Evening\MySolution\AdvancedCSharpHomeworkOne\SortArrayOfNumber\obj\Debug\SortArrayOfNumber.exe
+F:\Data Kiril\SoftUni\ExamProblems\Exam26April2015Evening\Programming-Basics-Exam-26-Apr-2015-Evening\MySolution\AdvancedCSharpHomeworkOne\SortArrayOfNumber\obj\Debug\SortArrayOfNumber.pdb
+F:\Data Kiril\SoftUni\Advanced C#\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\AdvancedCSharpHomeworkOne\SortArrayOfNumber\bin\Debug\SortArrayOfNumber.exe.config
+F:\Data Kiril\SoftUni\Advanced C#\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\AdvancedCSharpHomeworkOne\SortArrayOfNumber\obj\Debug\SortArrayOfNumber.exe
+F:\Data Kiril\SoftUni\Advanced C#\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\AdvancedCSharpHomeworkOne\SortArrayOfNumber\obj\Debug\SortArrayOfNumber.pdb

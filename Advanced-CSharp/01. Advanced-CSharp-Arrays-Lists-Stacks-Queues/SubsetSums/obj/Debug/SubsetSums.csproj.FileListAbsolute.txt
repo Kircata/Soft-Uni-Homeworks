@@ -1,0 +1,6 @@
+F:\Data Kiril\SoftUni\Advanced C#\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\AdvancedCSharpHomeworkOne\SubsetSums\bin\Debug\SubsetSums.exe.config
+F:\Data Kiril\SoftUni\Advanced C#\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\AdvancedCSharpHomeworkOne\SubsetSums\bin\Debug\SubsetSums.exe
+F:\Data Kiril\SoftUni\Advanced C#\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\AdvancedCSharpHomeworkOne\SubsetSums\bin\Debug\SubsetSums.pdb
+F:\Data Kiril\SoftUni\Advanced C#\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\AdvancedCSharpHomeworkOne\SubsetSums\obj\Debug\SubsetSums.csprojResolveAssemblyReference.cache
+F:\Data Kiril\SoftUni\Advanced C#\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\AdvancedCSharpHomeworkOne\SubsetSums\obj\Debug\SubsetSums.exe
+F:\Data Kiril\SoftUni\Advanced C#\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\AdvancedCSharpHomeworkOne\SubsetSums\obj\Debug\SubsetSums.pdb
