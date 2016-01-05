@@ -1,0 +1,6 @@
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\1.DefiningClasses\Person\bin\Debug\Person.exe.config
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\1.DefiningClasses\Person\bin\Debug\Person.exe
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\1.DefiningClasses\Person\bin\Debug\Person.pdb
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\1.DefiningClasses\Person\obj\Debug\Person.csprojResolveAssemblyReference.cache
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\1.DefiningClasses\Person\obj\Debug\Person.exe
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\1.DefiningClasses\Person\obj\Debug\Person.pdb
