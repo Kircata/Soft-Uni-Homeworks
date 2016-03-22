@@ -1,0 +1,12 @@
+F:\Data Kiril\SoftUni\ExamProblems\BasicsExams\BasicsExercise28November2015\5.EncapsulationAndPolymorphism\1.Shapes\bin\Debug\1.Shapes.exe.config
+F:\Data Kiril\SoftUni\ExamProblems\BasicsExams\BasicsExercise28November2015\5.EncapsulationAndPolymorphism\1.Shapes\bin\Debug\1.Shapes.exe
+F:\Data Kiril\SoftUni\ExamProblems\BasicsExams\BasicsExercise28November2015\5.EncapsulationAndPolymorphism\1.Shapes\bin\Debug\1.Shapes.pdb
+F:\Data Kiril\SoftUni\ExamProblems\BasicsExams\BasicsExercise28November2015\5.EncapsulationAndPolymorphism\1.Shapes\obj\Debug\1.Shapes.csprojResolveAssemblyReference.cache
+F:\Data Kiril\SoftUni\ExamProblems\BasicsExams\BasicsExercise28November2015\5.EncapsulationAndPolymorphism\1.Shapes\obj\Debug\1.Shapes.exe
+F:\Data Kiril\SoftUni\ExamProblems\BasicsExams\BasicsExercise28November2015\5.EncapsulationAndPolymorphism\1.Shapes\obj\Debug\1.Shapes.pdb
+C:\Users\User\Downloads\5.EncapsulationAndPolymorphism\1.Shapes\bin\Debug\1.Shapes.exe.config
+C:\Users\User\Downloads\5.EncapsulationAndPolymorphism\1.Shapes\obj\Debug\1.Shapes.exe
+C:\Users\User\Downloads\5.EncapsulationAndPolymorphism\1.Shapes\obj\Debug\1.Shapes.pdb
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\5.EncapsulationAndPolymorphism\1.Shapes\bin\Debug\1.Shapes.exe.config
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\5.EncapsulationAndPolymorphism\1.Shapes\obj\Debug\1.Shapes.exe
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\5.EncapsulationAndPolymorphism\1.Shapes\obj\Debug\1.Shapes.pdb

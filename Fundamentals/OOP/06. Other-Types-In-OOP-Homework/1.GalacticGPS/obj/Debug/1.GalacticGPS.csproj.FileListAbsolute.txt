@@ -1,0 +1,6 @@
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\6.OtherTypesInOOP\1.GalacticGPS\bin\Debug\1.GalacticGPS.exe.config
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\6.OtherTypesInOOP\1.GalacticGPS\bin\Debug\1.GalacticGPS.exe
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\6.OtherTypesInOOP\1.GalacticGPS\bin\Debug\1.GalacticGPS.pdb
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\6.OtherTypesInOOP\1.GalacticGPS\obj\Debug\1.GalacticGPS.csprojResolveAssemblyReference.cache
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\6.OtherTypesInOOP\1.GalacticGPS\obj\Debug\1.GalacticGPS.exe
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\6.OtherTypesInOOP\1.GalacticGPS\obj\Debug\1.GalacticGPS.pdb

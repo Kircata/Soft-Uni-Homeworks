@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2015\Projects\Homework-OOP-Other-Types\2.FractionCalculator\bin\Debug\2.FractionCalculator.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Homework-OOP-Other-Types\2.FractionCalculator\bin\Debug\2.FractionCalculator.exe
+c:\users\user\documents\visual studio 2015\Projects\Homework-OOP-Other-Types\2.FractionCalculator\bin\Debug\2.FractionCalculator.pdb
+c:\users\user\documents\visual studio 2015\Projects\Homework-OOP-Other-Types\2.FractionCalculator\obj\Debug\2.FractionCalculator.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Homework-OOP-Other-Types\2.FractionCalculator\obj\Debug\2.FractionCalculator.exe
+c:\users\user\documents\visual studio 2015\Projects\Homework-OOP-Other-Types\2.FractionCalculator\obj\Debug\2.FractionCalculator.pdb
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\6.OtherTypesInOOP\2.FractionCalculator\bin\Debug\2.FractionCalculator.exe.config
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\6.OtherTypesInOOP\2.FractionCalculator\obj\Debug\2.FractionCalculator.exe
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\6.OtherTypesInOOP\2.FractionCalculator\obj\Debug\2.FractionCalculator.pdb
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\6.OtherTypesInOOP\2.FractionCalculator\bin\Debug\2.FractionCalculator.exe
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\6.OtherTypesInOOP\2.FractionCalculator\bin\Debug\2.FractionCalculator.pdb
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\6.OtherTypesInOOP\2.FractionCalculator\obj\Debug\2.FractionCalculator.csprojResolveAssemblyReference.cache

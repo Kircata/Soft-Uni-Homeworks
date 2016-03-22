@@ -1,0 +1,6 @@
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\7.DelegatesAndEvents\2.Interest-Calculator\bin\Debug\2.Interest-Calculator.exe.config
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\7.DelegatesAndEvents\2.Interest-Calculator\bin\Debug\2.Interest-Calculator.exe
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\7.DelegatesAndEvents\2.Interest-Calculator\bin\Debug\2.Interest-Calculator.pdb
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\7.DelegatesAndEvents\2.Interest-Calculator\obj\Debug\2.Interest-Calculator.csprojResolveAssemblyReference.cache
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\7.DelegatesAndEvents\2.Interest-Calculator\obj\Debug\2.Interest-Calculator.exe
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\7.DelegatesAndEvents\2.Interest-Calculator\obj\Debug\2.Interest-Calculator.pdb

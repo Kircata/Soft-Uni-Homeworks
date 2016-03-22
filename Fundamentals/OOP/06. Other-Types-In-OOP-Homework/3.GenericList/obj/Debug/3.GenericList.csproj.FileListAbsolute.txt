@@ -1,0 +1,6 @@
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\6.OtherTypesInOOP\3.GenericList\bin\Debug\3.GenericList.exe.config
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\6.OtherTypesInOOP\3.GenericList\bin\Debug\3.GenericList.exe
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\6.OtherTypesInOOP\3.GenericList\bin\Debug\3.GenericList.pdb
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\6.OtherTypesInOOP\3.GenericList\obj\Debug\3.GenericList.csprojResolveAssemblyReference.cache
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\6.OtherTypesInOOP\3.GenericList\obj\Debug\3.GenericList.exe
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\6.OtherTypesInOOP\3.GenericList\obj\Debug\3.GenericList.pdb

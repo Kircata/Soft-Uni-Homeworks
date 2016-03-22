@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.GalacticGPS", "1.GalacticGPS\1.GalacticGPS.csproj", "{EA160171-A1AA-4672-B5F1-C5541425FC84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.FractionCalculator", "2.FractionCalculator\2.FractionCalculator.csproj", "{C2C79E65-DFEF-43F1-9AA2-4629744C2380}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.GenericList", "3.GenericList\3.GenericList.csproj", "{C152FE86-37D2-4701-8E04-239A4610E467}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.GenericListVersion", "4.GenericListVersion\4.GenericListVersion.csproj", "{F22CFB0D-2408-4645-98B8-9634023C7DEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA160171-A1AA-4672-B5F1-C5541425FC84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA160171-A1AA-4672-B5F1-C5541425FC84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA160171-A1AA-4672-B5F1-C5541425FC84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA160171-A1AA-4672-B5F1-C5541425FC84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2C79E65-DFEF-43F1-9AA2-4629744C2380}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2C79E65-DFEF-43F1-9AA2-4629744C2380}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2C79E65-DFEF-43F1-9AA2-4629744C2380}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2C79E65-DFEF-43F1-9AA2-4629744C2380}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C152FE86-37D2-4701-8E04-239A4610E467}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C152FE86-37D2-4701-8E04-239A4610E467}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C152FE86-37D2-4701-8E04-239A4610E467}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C152FE86-37D2-4701-8E04-239A4610E467}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F22CFB0D-2408-4645-98B8-9634023C7DEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F22CFB0D-2408-4645-98B8-9634023C7DEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F22CFB0D-2408-4645-98B8-9634023C7DEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F22CFB0D-2408-4645-98B8-9634023C7DEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

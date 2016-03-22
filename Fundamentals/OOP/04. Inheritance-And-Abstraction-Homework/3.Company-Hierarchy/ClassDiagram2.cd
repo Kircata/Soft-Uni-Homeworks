@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_3.Company_Hierarchy.Customer" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Customer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="_3.Company_Hierarchy.Developer" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAABAAAAAQA=</HashCode>
+      <FileName>Models\Developer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3.Company_Hierarchy.Employee" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAgAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3.Company_Hierarchy.Manager" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAIAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Manager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3.Company_Hierarchy.Person" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAEAAAABAAAAAAAAAAAAAAAAAAgAAAAAACAAAAgg=</HashCode>
+      <FileName>Models\Person.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="_3.Company_Hierarchy.Project" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAABAAAAAAAAAAQAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Models\Project.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3.Company_Hierarchy.RegularEmployee" Collapsed="true">
+    <Position X="1.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\RegularEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3.Company_Hierarchy.Sale" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Models\Sale.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3.Company_Hierarchy.SalesEmployee" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\SalesEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3.Company_Hierarchy.TestProgram" Collapsed="true">
+    <Position X="9.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>TestProgram.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="_3.Company_Hierarchy.Interfaces.ICustomer" Collapsed="true">
+    <Position X="5.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\ICustomer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="_3.Company_Hierarchy.Interfaces.IManager" Collapsed="true">
+    <Position X="9.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IManager.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="_3.Company_Hierarchy.Interfaces.IPerson" Collapsed="true">
+    <Position X="5.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Interfaces\IPerson.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="_3.Company_Hierarchy.DepartamentType" Collapsed="true">
+    <Position X="9.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAABAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\DepartamentType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

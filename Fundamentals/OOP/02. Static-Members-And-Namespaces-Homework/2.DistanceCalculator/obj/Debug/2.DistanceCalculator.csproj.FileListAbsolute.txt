@@ -1,0 +1,5 @@
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\2.StaticMembersAndNamespaces\2.DistanceCalculator\bin\Debug\2.DistanceCalculator.exe.config
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\2.StaticMembersAndNamespaces\2.DistanceCalculator\bin\Debug\2.DistanceCalculator.exe
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\2.StaticMembersAndNamespaces\2.DistanceCalculator\bin\Debug\2.DistanceCalculator.pdb
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\2.StaticMembersAndNamespaces\2.DistanceCalculator\obj\Debug\2.DistanceCalculator.exe
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\2.StaticMembersAndNamespaces\2.DistanceCalculator\obj\Debug\2.DistanceCalculator.pdb

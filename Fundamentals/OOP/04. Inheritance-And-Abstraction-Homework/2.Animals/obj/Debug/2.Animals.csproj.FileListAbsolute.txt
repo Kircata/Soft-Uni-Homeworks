@@ -1,0 +1,12 @@
+C:\Users\User\Downloads\4.InheritanceAndAbstraction\2.Animals\bin\Debug\2.Animals.exe.config
+C:\Users\User\Downloads\4.InheritanceAndAbstraction\2.Animals\bin\Debug\2.Animals.exe
+C:\Users\User\Downloads\4.InheritanceAndAbstraction\2.Animals\bin\Debug\2.Animals.pdb
+C:\Users\User\Downloads\4.InheritanceAndAbstraction\2.Animals\obj\Debug\2.Animals.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\4.InheritanceAndAbstraction\2.Animals\obj\Debug\2.Animals.exe
+C:\Users\User\Downloads\4.InheritanceAndAbstraction\2.Animals\obj\Debug\2.Animals.pdb
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\4.InheritanceAndAbstraction\2.Animals\bin\Debug\2.Animals.exe.config
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\4.InheritanceAndAbstraction\2.Animals\obj\Debug\2.Animals.exe
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\4.InheritanceAndAbstraction\2.Animals\obj\Debug\2.Animals.pdb
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\4.InheritanceAndAbstraction\2.Animals\bin\Debug\2.Animals.exe
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\4.InheritanceAndAbstraction\2.Animals\bin\Debug\2.Animals.pdb
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\4.InheritanceAndAbstraction\2.Animals\obj\Debug\2.Animals.csprojResolveAssemblyReference.cache

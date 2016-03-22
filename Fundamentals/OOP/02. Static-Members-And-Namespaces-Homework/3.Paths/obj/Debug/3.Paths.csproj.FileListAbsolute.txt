@@ -1,0 +1,6 @@
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\2.StaticMembersAndNamespaces\3.Paths\bin\Debug\3.Paths.exe.config
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\2.StaticMembersAndNamespaces\3.Paths\bin\Debug\3.Paths.exe
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\2.StaticMembersAndNamespaces\3.Paths\bin\Debug\3.Paths.pdb
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\2.StaticMembersAndNamespaces\3.Paths\obj\Debug\3.Paths.csprojResolveAssemblyReference.cache
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\2.StaticMembersAndNamespaces\3.Paths\obj\Debug\3.Paths.exe
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\2.StaticMembersAndNamespaces\3.Paths\obj\Debug\3.Paths.pdb

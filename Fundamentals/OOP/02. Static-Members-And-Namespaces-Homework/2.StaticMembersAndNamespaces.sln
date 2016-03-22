@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.Point3D", "1.Point3D\1.Point3D.csproj", "{56818394-37A8-4EA1-BAEE-72522C62C5D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.DistanceCalculator", "2.DistanceCalculator\2.DistanceCalculator.csproj", "{34BD466F-2602-4D0F-88D4-1E252005FFF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.Paths", "3.Paths\3.Paths.csproj", "{56B95235-5367-4C76-921D-24274A73712F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.Namespaces", "4.Namespaces\4.Namespaces.csproj", "{06541913-D143-44FF-BF1F-EAF0717C9263}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56818394-37A8-4EA1-BAEE-72522C62C5D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56818394-37A8-4EA1-BAEE-72522C62C5D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56818394-37A8-4EA1-BAEE-72522C62C5D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56818394-37A8-4EA1-BAEE-72522C62C5D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34BD466F-2602-4D0F-88D4-1E252005FFF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34BD466F-2602-4D0F-88D4-1E252005FFF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34BD466F-2602-4D0F-88D4-1E252005FFF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34BD466F-2602-4D0F-88D4-1E252005FFF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56B95235-5367-4C76-921D-24274A73712F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56B95235-5367-4C76-921D-24274A73712F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56B95235-5367-4C76-921D-24274A73712F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56B95235-5367-4C76-921D-24274A73712F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06541913-D143-44FF-BF1F-EAF0717C9263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06541913-D143-44FF-BF1F-EAF0717C9263}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06541913-D143-44FF-BF1F-EAF0717C9263}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06541913-D143-44FF-BF1F-EAF0717C9263}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,2 @@
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\2.StaticMembersAndNamespaces\Namespaces\bin\Debug\Namespaces.exe.config
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\2.StaticMembersAndNamespaces\4.Namespaces\bin\Debug\Namespaces.exe.config

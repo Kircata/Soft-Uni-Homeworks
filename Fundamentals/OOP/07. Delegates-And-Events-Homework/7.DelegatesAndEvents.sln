@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.Custom-LINQ-Extension-Methods", "1.Custom-LINQ-Extension-Methods\1.Custom-LINQ-Extension-Methods.csproj", "{3A348C88-4B87-4832-B849-A6C4D85C408D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.Interest-Calculator", "2.Interest-Calculator\2.Interest-Calculator.csproj", "{4AE10249-2C03-4CE1-849A-5102538072E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.Asynchronous-Timer", "3.Asynchronous-Timer\3.Asynchronous-Timer.csproj", "{19DABDD0-A180-4207-A3B3-2E43546F822A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A348C88-4B87-4832-B849-A6C4D85C408D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A348C88-4B87-4832-B849-A6C4D85C408D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A348C88-4B87-4832-B849-A6C4D85C408D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A348C88-4B87-4832-B849-A6C4D85C408D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AE10249-2C03-4CE1-849A-5102538072E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AE10249-2C03-4CE1-849A-5102538072E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AE10249-2C03-4CE1-849A-5102538072E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AE10249-2C03-4CE1-849A-5102538072E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19DABDD0-A180-4207-A3B3-2E43546F822A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19DABDD0-A180-4207-A3B3-2E43546F822A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19DABDD0-A180-4207-A3B3-2E43546F822A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19DABDD0-A180-4207-A3B3-2E43546F822A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

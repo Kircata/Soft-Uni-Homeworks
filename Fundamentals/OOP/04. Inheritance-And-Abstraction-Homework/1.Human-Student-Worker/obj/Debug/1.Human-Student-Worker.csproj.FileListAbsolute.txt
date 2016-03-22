@@ -1,0 +1,9 @@
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\4.InheritanceAndAbstraction\1.Human-Student-Worker\bin\Debug\1.Human-Student-Worker.exe.config
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\4.InheritanceAndAbstraction\1.Human-Student-Worker\obj\Debug\1.Human-Student-Worker.csprojResolveAssemblyReference.cache
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\4.InheritanceAndAbstraction\1.Human-Student-Worker\bin\Debug\1.Human-Student-Worker.exe
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\4.InheritanceAndAbstraction\1.Human-Student-Worker\bin\Debug\1.Human-Student-Worker.pdb
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\4.InheritanceAndAbstraction\1.Human-Student-Worker\obj\Debug\1.Human-Student-Worker.exe
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\4.InheritanceAndAbstraction\1.Human-Student-Worker\obj\Debug\1.Human-Student-Worker.pdb
+C:\Users\User\Downloads\4.InheritanceAndAbstraction\1.Human-Student-Worker\bin\Debug\1.Human-Student-Worker.exe.config
+C:\Users\User\Downloads\4.InheritanceAndAbstraction\1.Human-Student-Worker\obj\Debug\1.Human-Student-Worker.exe
+C:\Users\User\Downloads\4.InheritanceAndAbstraction\1.Human-Student-Worker\obj\Debug\1.Human-Student-Worker.pdb

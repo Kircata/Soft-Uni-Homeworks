@@ -1,0 +1,2 @@
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\5.EncapsulationAndPolymorphism\TheSlum-Skeleton\obj\Debug\TheSlum.exe
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\5.EncapsulationAndPolymorphism\TheSlum-Skeleton\obj\Debug\TheSlum.pdb

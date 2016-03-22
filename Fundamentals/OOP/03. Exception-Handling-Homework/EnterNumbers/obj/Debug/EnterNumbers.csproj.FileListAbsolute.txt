@@ -1,0 +1,6 @@
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\3.ExceptionHandling\EnterNumbers\bin\Debug\EnterNumbers.exe.config
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\3.ExceptionHandling\EnterNumbers\bin\Debug\EnterNumbers.exe
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\3.ExceptionHandling\EnterNumbers\bin\Debug\EnterNumbers.pdb
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\3.ExceptionHandling\EnterNumbers\obj\Debug\EnterNumbers.csprojResolveAssemblyReference.cache
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\3.ExceptionHandling\EnterNumbers\obj\Debug\EnterNumbers.exe
+F:\Data Kiril\SoftUni\Courses\Object-Oriented Programming\OOP-Homeworks\3.ExceptionHandling\EnterNumbers\obj\Debug\EnterNumbers.pdb
