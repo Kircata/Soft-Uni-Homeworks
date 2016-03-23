@@ -1,0 +1,6 @@
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\02. Naming-Identifiers-Homework\Naming Identifiers Homework\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\02. Naming-Identifiers-Homework\Naming Identifiers Homework\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\02. Naming-Identifiers-Homework\Naming Identifiers Homework\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\02. Naming-Identifiers-Homework\Naming Identifiers Homework\ConsoleApplication1\obj\Debug\1. ConsoleApplication1.csprojResolveAssemblyReference.cache
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\02. Naming-Identifiers-Homework\Naming Identifiers Homework\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\02. Naming-Identifiers-Homework\Naming Identifiers Homework\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

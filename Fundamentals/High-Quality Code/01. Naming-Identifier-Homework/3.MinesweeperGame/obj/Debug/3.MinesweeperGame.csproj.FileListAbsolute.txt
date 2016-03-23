@@ -1,0 +1,6 @@
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\Naming-Identifier-Solved-Homework\3.MinesweeperGame\bin\Debug\3.MinesweeperGame.exe.config
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\Naming-Identifier-Solved-Homework\3.MinesweeperGame\bin\Debug\3.MinesweeperGame.exe
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\Naming-Identifier-Solved-Homework\3.MinesweeperGame\bin\Debug\3.MinesweeperGame.pdb
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\Naming-Identifier-Solved-Homework\3.MinesweeperGame\obj\Debug\3.MinesweeperGame.csprojResolveAssemblyReference.cache
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\Naming-Identifier-Solved-Homework\3.MinesweeperGame\obj\Debug\3.MinesweeperGame.exe
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\Naming-Identifier-Solved-Homework\3.MinesweeperGame\obj\Debug\3.MinesweeperGame.pdb
