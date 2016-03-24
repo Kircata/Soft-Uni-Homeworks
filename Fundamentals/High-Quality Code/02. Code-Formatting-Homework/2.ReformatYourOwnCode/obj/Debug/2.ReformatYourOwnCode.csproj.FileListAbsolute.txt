@@ -1,0 +1,5 @@
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\HQC-Code-Formatting-Homework\2.ReformatYourOwnCode\bin\Debug\2.ReformatYourOwnCode.exe.config
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\HQC-Code-Formatting-Homework\2.ReformatYourOwnCode\bin\Debug\2.ReformatYourOwnCode.exe
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\HQC-Code-Formatting-Homework\2.ReformatYourOwnCode\bin\Debug\2.ReformatYourOwnCode.pdb
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\HQC-Code-Formatting-Homework\2.ReformatYourOwnCode\obj\Debug\2.ReformatYourOwnCode.exe
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\HQC-Code-Formatting-Homework\2.ReformatYourOwnCode\obj\Debug\2.ReformatYourOwnCode.pdb

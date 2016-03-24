@@ -1,0 +1,2 @@
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\HQC-Code-Formatting-Homework\1.ReformatCode\bin\Debug\1.ReformatCode.exe.config
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\HQC-Code-Formatting-Homework\1.ReformatCode\obj\Debug\1.ReformatCode.csprojResolveAssemblyReference.cache
