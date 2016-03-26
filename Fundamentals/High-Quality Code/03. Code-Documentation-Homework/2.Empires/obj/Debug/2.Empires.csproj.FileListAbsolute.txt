@@ -1,0 +1,5 @@
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\HQC-Code-Documentation-Homework\2.Empires\bin\Debug\1.Empires.exe.config
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\HQC-Code-Documentation-Homework\2.Empires\bin\Debug\1.Empires.exe
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\HQC-Code-Documentation-Homework\2.Empires\bin\Debug\1.Empires.pdb
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\HQC-Code-Documentation-Homework\2.Empires\obj\Debug\1.Empires.exe
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\HQC-Code-Documentation-Homework\2.Empires\obj\Debug\1.Empires.pdb

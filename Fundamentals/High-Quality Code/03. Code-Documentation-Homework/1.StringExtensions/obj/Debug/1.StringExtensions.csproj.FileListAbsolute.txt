@@ -1,0 +1,6 @@
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\HQC-Code-Documentation-Homework\1.StringExtensions\bin\Debug\1.StringExtensions.exe.config
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\HQC-Code-Documentation-Homework\1.StringExtensions\bin\Debug\1.StringExtensions.exe
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\HQC-Code-Documentation-Homework\1.StringExtensions\bin\Debug\1.StringExtensions.pdb
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\HQC-Code-Documentation-Homework\1.StringExtensions\obj\Debug\1.StringExtensions.csprojResolveAssemblyReference.cache
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\HQC-Code-Documentation-Homework\1.StringExtensions\obj\Debug\1.StringExtensions.exe
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\HQC-Code-Documentation-Homework\1.StringExtensions\obj\Debug\1.StringExtensions.pdb
