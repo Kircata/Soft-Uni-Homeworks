@@ -1,0 +1,7 @@
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\07. High-Quality-Methods-Homework\07. High-Quality-Methods-Homework\bin\Debug\Methods.exe
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\07. High-Quality-Methods-Homework\07. High-Quality-Methods-Homework\bin\Debug\Methods.pdb
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\07. High-Quality-Methods-Homework\07. High-Quality-Methods-Homework\obj\Debug\Methods.csprojResolveAssemblyReference.cache
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\07. High-Quality-Methods-Homework\07. High-Quality-Methods-Homework\obj\Debug\Methods.exe
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\07. High-Quality-Methods-Homework\07. High-Quality-Methods-Homework\obj\Debug\Methods.pdb
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\07.High-Quality-Methods-Homework-Solved\07. High-Quality-Methods-Homework\07. High-Quality-Methods-Homework\obj\Debug\Methods.exe
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\07.High-Quality-Methods-Homework-Solved\07. High-Quality-Methods-Homework\07. High-Quality-Methods-Homework\obj\Debug\Methods.pdb
