@@ -1,0 +1,5 @@
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\08. High-Quality-Classes-Homework\08. High-Quality-Classes-Homework\Abstraction\bin\Debug\Abstraction.exe
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\08. High-Quality-Classes-Homework\08. High-Quality-Classes-Homework\Abstraction\bin\Debug\Abstraction.pdb
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\08. High-Quality-Classes-Homework\08. High-Quality-Classes-Homework\Abstraction\obj\Debug\Abstraction.csprojResolveAssemblyReference.cache
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\08. High-Quality-Classes-Homework\08. High-Quality-Classes-Homework\Abstraction\obj\Debug\Abstraction.exe
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\08. High-Quality-Classes-Homework\08. High-Quality-Classes-Homework\Abstraction\obj\Debug\Abstraction.pdb

@@ -1,0 +1,5 @@
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\08. High-Quality-Classes-Homework\08. High-Quality-Classes-Homework\Inheritance-and-Polymorphism\bin\Debug\Inheritance-and-Polymorphism.exe
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\08. High-Quality-Classes-Homework\08. High-Quality-Classes-Homework\Inheritance-and-Polymorphism\bin\Debug\Inheritance-and-Polymorphism.pdb
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\08. High-Quality-Classes-Homework\08. High-Quality-Classes-Homework\Inheritance-and-Polymorphism\obj\Debug\Inheritance-and-Polymorphism.csprojResolveAssemblyReference.cache
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\08. High-Quality-Classes-Homework\08. High-Quality-Classes-Homework\Inheritance-and-Polymorphism\obj\Debug\Inheritance-and-Polymorphism.exe
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\08. High-Quality-Classes-Homework\08. High-Quality-Classes-Homework\Inheritance-and-Polymorphism\obj\Debug\Inheritance-and-Polymorphism.pdb

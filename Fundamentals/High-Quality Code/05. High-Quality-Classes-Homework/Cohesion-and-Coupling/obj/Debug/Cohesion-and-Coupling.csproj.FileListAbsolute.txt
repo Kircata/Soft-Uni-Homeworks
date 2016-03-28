@@ -1,0 +1,5 @@
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\08. High-Quality-Classes-Homework\08. High-Quality-Classes-Homework\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.exe
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\08. High-Quality-Classes-Homework\08. High-Quality-Classes-Homework\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.pdb
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\08. High-Quality-Classes-Homework\08. High-Quality-Classes-Homework\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.csprojResolveAssemblyReference.cache
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\08. High-Quality-Classes-Homework\08. High-Quality-Classes-Homework\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.exe
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\08. High-Quality-Classes-Homework\08. High-Quality-Classes-Homework\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.pdb
