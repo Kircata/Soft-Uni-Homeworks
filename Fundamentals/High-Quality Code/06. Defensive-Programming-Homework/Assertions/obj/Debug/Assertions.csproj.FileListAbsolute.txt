@@ -1,0 +1,5 @@
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\09. Defensive-Programming-and-Exceptions-Homework\Assertions-and-Exceptions\Assertions\bin\Debug\Assertions-Homework.exe
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\09. Defensive-Programming-and-Exceptions-Homework\Assertions-and-Exceptions\Assertions\bin\Debug\Assertions-Homework.pdb
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\09. Defensive-Programming-and-Exceptions-Homework\Assertions-and-Exceptions\Assertions\obj\Debug\Assertions.csprojResolveAssemblyReference.cache
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\09. Defensive-Programming-and-Exceptions-Homework\Assertions-and-Exceptions\Assertions\obj\Debug\Assertions-Homework.exe
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\09. Defensive-Programming-and-Exceptions-Homework\Assertions-and-Exceptions\Assertions\obj\Debug\Assertions-Homework.pdb

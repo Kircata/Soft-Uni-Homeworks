@@ -1,0 +1,4 @@
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\09. Defensive-Programming-and-Exceptions-Homework\Assertions-and-Exceptions\Exceptions\bin\Debug\Exceptions-Homework.exe
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\09. Defensive-Programming-and-Exceptions-Homework\Assertions-and-Exceptions\Exceptions\bin\Debug\Exceptions-Homework.pdb
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\09. Defensive-Programming-and-Exceptions-Homework\Assertions-and-Exceptions\Exceptions\obj\Debug\Exceptions-Homework.exe
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\09. Defensive-Programming-and-Exceptions-Homework\Assertions-and-Exceptions\Exceptions\obj\Debug\Exceptions-Homework.pdb
