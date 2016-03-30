@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\HQC-Code-Tuning-And-Optimization-Homework\3.CompareSortingAlgorithms\bin\Debug\3.CompareSortingAlgorithms.exe.config
+C:\Users\User\Desktop\HQC-Code-Tuning-And-Optimization-Homework\3.CompareSortingAlgorithms\bin\Debug\3.CompareSortingAlgorithms.exe
+C:\Users\User\Desktop\HQC-Code-Tuning-And-Optimization-Homework\3.CompareSortingAlgorithms\bin\Debug\3.CompareSortingAlgorithms.pdb
+C:\Users\User\Desktop\HQC-Code-Tuning-And-Optimization-Homework\3.CompareSortingAlgorithms\obj\Debug\3.CompareSortingAlgorithms.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\HQC-Code-Tuning-And-Optimization-Homework\3.CompareSortingAlgorithms\obj\Debug\3.CompareSortingAlgorithms.exe
+C:\Users\User\Desktop\HQC-Code-Tuning-And-Optimization-Homework\3.CompareSortingAlgorithms\obj\Debug\3.CompareSortingAlgorithms.pdb
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\Homework-Kiril98-Code Tuning and Optimization\HQC-Code-Tuning-And-Optimization-Homework\3.CompareSortingAlgorithms\bin\Debug\3.CompareSortingAlgorithms.exe.config
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\Homework-Kiril98-Code Tuning and Optimization\HQC-Code-Tuning-And-Optimization-Homework\3.CompareSortingAlgorithms\obj\Debug\3.CompareSortingAlgorithms.exe
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\Homework-Kiril98-Code Tuning and Optimization\HQC-Code-Tuning-And-Optimization-Homework\3.CompareSortingAlgorithms\obj\Debug\3.CompareSortingAlgorithms.pdb
