@@ -1,0 +1,8 @@
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\11. Unit-Testing-Homework\11. Unit-Testing-Homework\CustomLinkedList\TestCustomList\bin\Debug\TestCustomList.dll
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\11. Unit-Testing-Homework\11. Unit-Testing-Homework\CustomLinkedList\TestCustomList\bin\Debug\TestCustomList.pdb
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\11. Unit-Testing-Homework\11. Unit-Testing-Homework\CustomLinkedList\TestCustomList\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\11. Unit-Testing-Homework\11. Unit-Testing-Homework\CustomLinkedList\TestCustomList\obj\Debug\TestCustomList.csprojResolveAssemblyReference.cache
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\11. Unit-Testing-Homework\11. Unit-Testing-Homework\CustomLinkedList\TestCustomList\obj\Debug\TestCustomList.dll
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\11. Unit-Testing-Homework\11. Unit-Testing-Homework\CustomLinkedList\TestCustomList\obj\Debug\TestCustomList.pdb
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\11. Unit-Testing-Homework\11. Unit-Testing-Homework\CustomLinkedList\TestCustomList\bin\Debug\CustomLinkedList.dll
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\11. Unit-Testing-Homework\11. Unit-Testing-Homework\CustomLinkedList\TestCustomList\bin\Debug\CustomLinkedList.pdb
