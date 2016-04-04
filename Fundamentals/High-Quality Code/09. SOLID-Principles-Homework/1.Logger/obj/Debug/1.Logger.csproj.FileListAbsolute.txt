@@ -1,0 +1,6 @@
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\SOLID-Principles-Solved-Homework\1.Logger\bin\Debug\1.Logger.exe.config
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\SOLID-Principles-Solved-Homework\1.Logger\bin\Debug\1.Logger.exe
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\SOLID-Principles-Solved-Homework\1.Logger\bin\Debug\1.Logger.pdb
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\SOLID-Principles-Solved-Homework\1.Logger\obj\Debug\1.Logger.csprojResolveAssemblyReference.cache
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\SOLID-Principles-Solved-Homework\1.Logger\obj\Debug\1.Logger.exe
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\SOLID-Principles-Solved-Homework\1.Logger\obj\Debug\1.Logger.pdb

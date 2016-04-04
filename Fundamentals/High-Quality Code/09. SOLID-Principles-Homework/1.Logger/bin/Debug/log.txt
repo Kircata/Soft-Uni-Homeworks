@@ -1,0 +1,3 @@
+23.1.2016 г. 09:47:58 ч. - Error - Error parsing JSON.
+23.1.2016 г. 09:47:58 ч. - Info - User Pesho successfully registered.
+23.1.2016 г. 09:47:58 ч. - Warning - Warning - missing files.
