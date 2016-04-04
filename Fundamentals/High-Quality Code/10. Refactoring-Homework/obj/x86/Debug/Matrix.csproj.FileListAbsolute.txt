@@ -1,0 +1,5 @@
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\17. Refactoring-Homework\Matrix\obj\x86\Debug\Matrix.csprojResolveAssemblyReference.cache
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\17. Refactoring-Homework\Matrix\bin\Debug\Matrix.exe
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\17. Refactoring-Homework\Matrix\bin\Debug\Matrix.pdb
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\17. Refactoring-Homework\Matrix\obj\x86\Debug\Matrix.exe
+F:\Data Kiril\SoftUni\Courses\Fundamentals\High-Quality Code\HQC-Homeworks\17. Refactoring-Homework\Matrix\obj\x86\Debug\Matrix.pdb
